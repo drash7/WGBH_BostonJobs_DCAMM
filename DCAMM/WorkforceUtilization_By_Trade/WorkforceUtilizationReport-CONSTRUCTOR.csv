@@ -1,0 +1,249 @@
+MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,103.25,103.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,103.25,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,35.75,35.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.75,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,84.5,84.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,84.5,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,253.0,253.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,253.0,HOURS_PER_MONTH
+1,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,281.5,281.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,281.5,HOURS_PER_MONTH
+2,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,318.0,318.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,318.0,HOURS_PER_MONTH
+2,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,334.25,334.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,334.25,HOURS_PER_MONTH
+5,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,353.5,353.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,353.5,HOURS_PER_MONTH
+5,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,207.0,207.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,207.0,HOURS_PER_MONTH
+5,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,55.5,55.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.5,HOURS_PER_MONTH
+5,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,107.13,107.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,107.13,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,114.88,114.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.88,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,372.0,372.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,372.0,HOURS_PER_MONTH
+6,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,263.0,263.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,263.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,269.75,269.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,269.75,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,350.25,350.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350.25,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,366.0,342.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,366.0,HOURS_PER_MONTH
+8,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,406.75,406.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,406.75,HOURS_PER_MONTH
+8,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+8,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,357.0,357.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,357.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,357.25,357.25,0.0,0.0,0.0,0.0,0.0,0.0,31.75,325.5,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,314.0,274.75,39.25,0.0,0.0,0.0,0.0,0.0,0.0,314.0,HOURS_PER_MONTH
+10,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,418.0,418.0,0.0,0.0,0.0,0.0,0.0,0.0,31.5,386.5,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,311.5,311.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,311.5,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,365.75,365.75,0.0,0.0,0.0,0.0,0.0,0.0,148.25,217.5,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,263.5,263.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,263.5,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,247.5,247.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,247.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,306.25,306.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,306.25,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,395.5,395.5,0.0,0.0,0.0,0.0,0.0,0.0,126.0,269.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,107.5,107.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,107.5,HOURS_PER_MONTH
+12,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,123.5,123.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,123.5,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,346.0,346.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,346.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,277.5,277.5,0.0,0.0,0.0,0.0,0.0,0.0,147.75,129.75,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,42.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,350.0,350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,281.25,281.25,0.0,0.0,0.0,0.0,0.0,0.0,140.0,141.25,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,421.5,421.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,421.5,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,277.75,277.75,0.0,0.0,0.0,0.0,0.0,0.0,130.0,147.75,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,298.25,298.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,298.25,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,279.0,279.0,0.0,0.0,0.0,0.0,0.0,0.0,123.5,155.5,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,46.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,160.5,160.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.5,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,149.5,149.5,0.0,0.0,0.0,0.0,0.0,0.0,45.0,104.5,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,10.5,10.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.5,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,48.5,48.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.5,HOURS_PER_MONTH
+4,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,1.5,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,HOURS_PER_MONTH
+4,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,214.5,214.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,214.5,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,184.5,184.5,0.0,0.0,0.0,0.0,0.0,0.0,8.0,176.5,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Journeymen,38.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,140.0,140.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,140.0,HOURS_PER_MONTH
+5,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,128.0,128.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,HOURS_PER_MONTH
+5,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,234.5,234.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,234.5,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,135.25,135.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,135.25,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,287.0,287.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,287.0,HOURS_PER_MONTH
+6,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,380.0,380.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,380.0,HOURS_PER_MONTH
+6,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,234.25,234.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,234.25,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,259.25,259.25,0.0,0.0,0.0,0.0,0.0,0.0,24.0,235.25,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,197.5,197.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,197.5,HOURS_PER_MONTH
+7,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,191.0,191.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,191.0,HOURS_PER_MONTH
+7,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,241.25,241.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,241.25,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,221.5,221.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,217.5,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,403.5,403.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,403.5,HOURS_PER_MONTH
+8,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,495.0,495.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,495.0,HOURS_PER_MONTH
+8,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+9,2019,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,224.5,224.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,224.5,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,154.25,154.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,154.25,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,481.0,481.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,481.0,HOURS_PER_MONTH
+9,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,534.0,534.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,534.0,HOURS_PER_MONTH
+9,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,409.25,409.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,409.25,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,154.5,139.5,15.0,0.0,0.0,0.0,0.0,0.0,0.0,154.5,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,289.5,289.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,289.5,HOURS_PER_MONTH
+10,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,389.0,389.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,389.0,HOURS_PER_MONTH
+10,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,204.0,200.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,204.0,HOURS_PER_MONTH
+11,2019,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,375.75,375.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,375.75,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,139.25,139.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,139.25,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,416.0,416.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,416.0,HOURS_PER_MONTH
+11,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,480.0,480.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,480.0,HOURS_PER_MONTH
+11,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+12,2019,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,405.0,403.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,405.0,HOURS_PER_MONTH
+12,2019,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,295.0,295.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,295.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,47.75,47.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.75,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,447.5,447.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,447.5,HOURS_PER_MONTH
+12,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,472.0,472.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,472.0,HOURS_PER_MONTH
+12,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,312.5,312.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,312.5,HOURS_PER_MONTH
+1,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,407.5,407.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,407.5,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,79.75,79.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,79.75,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,295.0,295.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,295.0,HOURS_PER_MONTH
+1,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,432.0,432.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,432.0,HOURS_PER_MONTH
+1,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+2,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,614.5,613.5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,614.5,HOURS_PER_MONTH
+2,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,112.5,112.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.5,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,385.0,337.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,385.0,HOURS_PER_MONTH
+2,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,337.5,337.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,337.5,HOURS_PER_MONTH
+2,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,480.0,479.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,480.0,HOURS_PER_MONTH
+3,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,688.5,518.5,170.0,0.0,0.0,0.0,0.0,0.0,0.0,688.5,HOURS_PER_MONTH
+3,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,325.5,325.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,325.5,HOURS_PER_MONTH
+3,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,Delta beckwith elevator,CONSTRUCTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+4,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,508.0,471.0,0.0,37.0,0.0,0.0,0.0,0.0,0.0,508.0,HOURS_PER_MONTH
+4,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+4,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,224.0,224.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,224.0,HOURS_PER_MONTH
+4,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,100.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,HOURS_PER_MONTH
+4,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,426.0,418.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,426.0,HOURS_PER_MONTH
+5,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,860.0,842.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,860.0,HOURS_PER_MONTH
+5,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,334.5,334.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,334.5,HOURS_PER_MONTH
+5,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,360.0,360.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,360.0,HOURS_PER_MONTH
+6,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+6,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+6,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,670.0,638.0,0.0,0.0,0.0,0.0,32.0,0.0,0.0,670.0,HOURS_PER_MONTH
+6,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,262.5,262.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,262.5,HOURS_PER_MONTH
+6,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,333.0,333.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,333.0,HOURS_PER_MONTH
+7,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,675.5,667.5,0.0,0.0,0.0,0.0,8.0,0.0,0.0,675.5,HOURS_PER_MONTH
+7,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,318.0,318.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,318.0,HOURS_PER_MONTH
+7,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,419.0,385.0,0.0,32.0,2.0,0.0,0.0,0.0,0.0,419.0,HOURS_PER_MONTH
+8,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,315.25,315.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,315.25,HOURS_PER_MONTH
+8,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,552.5,552.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,552.5,HOURS_PER_MONTH
+8,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,334.0,334.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,334.0,HOURS_PER_MONTH
+9,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,180.5,180.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,180.5,HOURS_PER_MONTH
+9,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,464.5,464.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,464.5,HOURS_PER_MONTH
+9,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,321.5,321.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,321.5,HOURS_PER_MONTH
+10,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,72.75,72.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.75,HOURS_PER_MONTH
+10,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,286.0,286.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,286.0,HOURS_PER_MONTH
+10,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,509.0,508.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,509.0,HOURS_PER_MONTH
+11,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,280.5,280.5,0.0,0.0,0.0,0.0,0.0,0.0,141.5,139.0,HOURS_PER_MONTH
+11,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,547.25,547.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,547.25,HOURS_PER_MONTH
+11,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Journeymen,392.5,367.5,0.0,24.0,1.0,0.0,0.0,0.0,0.0,392.5,HOURS_PER_MONTH
+12,2020,"IFM2006 C Elevator, Escalator & Lift Maintenance Services for Certain State Buildings Boston, Cambridge, Chelsea, Lawrence, and Lowell",IFM2006 C,"United elevator company, inc.",CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,197.5,197.5,0.0,0.0,0.0,0.0,0.0,0.0,133.75,63.75,HOURS_PER_MONTH
+12,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Journeymen,380.0,380.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,380.0,HOURS_PER_MONTH
+12,2020,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,3 phase elevator,CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH

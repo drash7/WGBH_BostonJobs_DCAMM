@@ -1,0 +1,299 @@
+MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,520.0,520.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,424.0,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,331.0,151.0,0.0,180.0,0.0,0.0,0.0,0.0,0.0,331.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,145.0,7.0,0.0,138.0,0.0,0.0,0.0,0.0,7.0,138.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,175.0,175.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,175.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,252.0,252.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,252.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,258.0,117.5,0.0,140.5,0.0,0.0,0.0,0.0,0.0,258.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,274.0,0.0,120.0,154.0,0.0,0.0,0.0,0.0,120.0,154.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,403.5,403.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,403.5,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,110.0,69.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,110.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Kapiloff's glass, inc.",GLAZIER,Journeymen,15.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Kapiloff's glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,49.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,231.0,231.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,231.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Skylight new england,GLAZIER,Journeymen,213.0,213.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,213.0,HOURS_PER_MONTH
+8,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Skylight new england,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,178.0,0.0,0.0,178.0,0.0,0.0,0.0,0.0,0.0,178.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,260.0,0.0,82.0,178.0,0.0,0.0,0.0,0.0,82.0,178.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,590.0,590.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,590.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,98.5,53.0,0.0,45.5,0.0,0.0,0.0,0.0,0.0,98.5,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,169.0,169.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,169.0,HOURS_PER_MONTH
+10,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,187.0,187.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,187.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Journeymen,848.5,848.5,0.0,0.0,0.0,0.0,0.0,0.0,190.0,658.5,HOURS_PER_MONTH
+10,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Apprentice,439.0,439.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,439.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,183.0,0.0,0.0,183.0,0.0,0.0,0.0,0.0,0.0,183.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,161.0,0.0,0.0,161.0,0.0,0.0,0.0,0.0,0.0,161.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,605.0,605.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,605.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,261.0,261.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,261.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,385.5,385.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,385.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Journeymen,482.0,482.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,354.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Apprentice,176.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,176.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,48.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,141.0,0.0,0.0,141.0,0.0,0.0,0.0,0.0,0.0,141.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,530.5,530.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,530.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,14.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,14.0,HOURS_PER_MONTH
+12,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,109.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,109.0,HOURS_PER_MONTH
+12,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,104.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,303.0,303.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,303.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Journeymen,93.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,69.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Apprentice,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Skylight new england,GLAZIER,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Skylight new england,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,124.0,0.0,0.0,124.0,0.0,0.0,0.0,0.0,0.0,124.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,474.0,474.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,474.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,4.5,1.5,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.5,HOURS_PER_MONTH
+1,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Kapiloff's glass, inc.",GLAZIER,Journeymen,15.02,15.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.02,HOURS_PER_MONTH
+1,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Kapiloff's glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,HOURS_PER_MONTH
+1,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,126.0,126.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,126.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,64.0,0.0,0.0,64.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,264.0,264.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,264.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,13.5,4.5,0.0,9.0,0.0,0.0,0.0,0.0,0.0,13.5,HOURS_PER_MONTH
+2,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,15.75,0.0,0.0,15.75,0.0,0.0,0.0,0.0,0.0,15.75,HOURS_PER_MONTH
+2,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,772.0,772.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,772.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,130.0,65.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,130.0,HOURS_PER_MONTH
+3,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+3,2019,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,51.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,494.0,494.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,494.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,116.0,54.0,10.5,51.5,0.0,0.0,0.0,0.0,0.0,116.0,HOURS_PER_MONTH
+4,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,39.5,39.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.5,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,307.5,307.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,307.5,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,104.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Journeymen,28.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,28.0,HOURS_PER_MONTH
+5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+5,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+5,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,21.5,13.0,0.0,8.5,0.0,0.0,0.0,0.0,0.0,21.5,HOURS_PER_MONTH
+5,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,29.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,GLAZIER,Journeymen,107.0,0.0,0.0,107.0,0.0,0.0,0.0,0.0,0.0,107.0,HOURS_PER_MONTH
+6,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,71.5,71.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71.5,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,110.0,110.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,110.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,8.0,4.5,0.0,0.0,3.5,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+7,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,114.0,114.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,184.0,184.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,184.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,GLAZIER,Journeymen,7.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,HOURS_PER_MONTH
+8,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Journeymen,15.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Apprentice,14.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Journeymen,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+8,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,204.0,204.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,204.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,241.0,241.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,241.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Journeymen,22.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,HOURS_PER_MONTH
+9,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,32.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Journeymen,23.5,23.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.5,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Apprentice,21.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,32.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Journeymen,9.5,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.5,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Greenfield glass co., inc.",GLAZIER,Apprentice,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,HOURS_PER_MONTH
+11,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,102.75,6.0,0.0,96.75,0.0,0.0,0.0,0.0,0.0,102.75,HOURS_PER_MONTH
+11,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,273.5,0.0,0.0,273.5,0.0,0.0,0.0,0.0,0.0,273.5,HOURS_PER_MONTH
+11,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,21.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,21.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,48.0,32.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,86.5,86.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.5,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Apprentice,156.0,120.0,0.0,36.0,0.0,0.0,0.0,0.0,28.0,128.0,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,20.25,20.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.25,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,171.0,17.75,0.0,153.25,0.0,0.0,0.0,0.0,0.0,171.0,HOURS_PER_MONTH
+12,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,246.25,0.0,0.0,246.25,0.0,0.0,0.0,0.0,0.0,246.25,HOURS_PER_MONTH
+12,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,16.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Apprentice,58.0,53.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,53.0,HOURS_PER_MONTH
+1,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+1,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+1,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,269.25,1.0,0.0,268.25,0.0,0.0,0.0,0.0,0.0,269.25,HOURS_PER_MONTH
+1,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,304.0,0.0,0.0,304.0,0.0,0.0,0.0,0.0,0.0,304.0,HOURS_PER_MONTH
+1,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Journeymen,16.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Chandler architectural products, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Apprentice,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+2,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,53.0,0.0,0.0,53.0,0.0,0.0,0.0,0.0,0.0,53.0,HOURS_PER_MONTH
+2,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,83.5,0.0,0.0,83.5,0.0,0.0,0.0,0.0,0.0,83.5,HOURS_PER_MONTH
+2,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,HOURS_PER_MONTH
+3,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,HOURS_PER_MONTH
+3,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,69.75,69.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.75,HOURS_PER_MONTH
+4,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,158.25,158.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,158.25,HOURS_PER_MONTH
+5,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,7.5,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0,7.5,HOURS_PER_MONTH
+5,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,8.5,0.0,0.0,8.5,0.0,0.0,0.0,0.0,0.0,8.5,HOURS_PER_MONTH
+5,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Sunrise erectors, inc",GLAZIER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+5,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Sunrise erectors, inc",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+5,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,92.25,92.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,92.25,HOURS_PER_MONTH
+6,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,190.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,190.0,HOURS_PER_MONTH
+6,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Jackson glass inc.,GLAZIER,Apprentice,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+7,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,61.5,0.0,0.0,61.5,0.0,0.0,0.0,0.0,0.0,61.5,HOURS_PER_MONTH
+7,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,72.5,0.0,0.0,72.5,0.0,0.0,0.0,0.0,0.0,72.5,HOURS_PER_MONTH
+7,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Sunrise erectors, inc",GLAZIER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+7,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Sunrise erectors, inc",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,18.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,103.5,103.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,103.5,HOURS_PER_MONTH
+8,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,464.75,0.0,0.0,464.75,0.0,0.0,0.0,0.0,0.0,464.75,HOURS_PER_MONTH
+8,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,318.75,0.0,0.0,318.75,0.0,0.0,0.0,0.0,0.0,318.75,HOURS_PER_MONTH
+8,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Sunrise erectors, inc",GLAZIER,Journeymen,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+8,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Sunrise erectors, inc",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+8,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+8,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"R & r window contractors, inc.",GLAZIER,Journeymen,1.25,1.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.25,HOURS_PER_MONTH
+9,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"R & r window contractors, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+9,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,80.0,40.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,80.0,HOURS_PER_MONTH
+9,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,15.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,HOURS_PER_MONTH
+9,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,472.0,0.0,0.0,472.0,0.0,0.0,0.0,0.0,0.0,472.0,HOURS_PER_MONTH
+9,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,235.5,0.0,0.0,235.5,0.0,0.0,0.0,0.0,0.0,235.5,HOURS_PER_MONTH
+9,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+9,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"R & r window contractors, inc.",GLAZIER,Journeymen,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,HOURS_PER_MONTH
+10,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"R & r window contractors, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+10,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+10,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DMH2004 - Taunton Chambers Building,DMH2004,The cheviot corporation,GLAZIER,Journeymen,13.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,HOURS_PER_MONTH
+10,2020,DMH2004 - Taunton Chambers Building,DMH2004,The cheviot corporation,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,383.0,0.0,0.0,383.0,0.0,0.0,0.0,0.0,0.0,383.0,HOURS_PER_MONTH
+10,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,207.25,20.75,0.0,186.5,0.0,0.0,0.0,0.0,0.0,207.25,HOURS_PER_MONTH
+10,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,19.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,HOURS_PER_MONTH
+10,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,35.5,0.0,0.0,35.5,0.0,0.0,0.0,0.0,0.0,35.5,HOURS_PER_MONTH
+11,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,17.75,0.0,0.0,17.75,0.0,0.0,0.0,0.0,0.0,17.75,HOURS_PER_MONTH
+11,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Journeymen,76.0,76.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,HOURS_PER_MONTH
+11,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Aluminum & glass concepts, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DMH2004 - Taunton Chambers Building,DMH2004,The cheviot corporation,GLAZIER,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+12,2020,DMH2004 - Taunton Chambers Building,DMH2004,The cheviot corporation,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Journeymen,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,HOURS_PER_MONTH
+12,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Modern manufacturing inc. of worcester,GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Journeymen,132.5,0.0,0.0,132.5,0.0,0.0,0.0,0.0,0.0,132.5,HOURS_PER_MONTH
+12,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"Lizotte glass, inc.",GLAZIER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH

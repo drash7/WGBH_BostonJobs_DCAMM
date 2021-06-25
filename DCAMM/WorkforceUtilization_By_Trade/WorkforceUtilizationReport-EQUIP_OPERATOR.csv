@@ -1,0 +1,483 @@
+MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
+8,2017,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,EQUIP_OPERATOR,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2017,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,367.5,367.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,367.5,HOURS_PER_MONTH
+8,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,17.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,HOURS_PER_MONTH
+8,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,63.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0,HOURS_PER_MONTH
+8,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Journeymen,18.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,HOURS_PER_MONTH
+10,2017,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,NEC1701 FC1 C Northern Essex Community College Underground Electrical Repairs,NEC1701 FC1,"Mattuchio construction co., inc.",EQUIP_OPERATOR,Journeymen,177.0,177.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,177.0,HOURS_PER_MONTH
+10,2017,NEC1701 FC1 C Northern Essex Community College Underground Electrical Repairs,NEC1701 FC1,"Mattuchio construction co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,"3c drilling, llc",EQUIP_OPERATOR,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,"3c drilling, llc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Fillions's landscaping inc.,EQUIP_OPERATOR,Journeymen,77.0,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0,HOURS_PER_MONTH
+10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Fillions's landscaping inc.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Celco construction corp.,EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Celco construction corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,143.5,143.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,143.5,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,60.5,60.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.5,HOURS_PER_MONTH
+10,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,70.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,HOURS_PER_MONTH
+10,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Journeymen,17.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,HOURS_PER_MONTH
+11,2017,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,NEC1701 FC1 C Northern Essex Community College Underground Electrical Repairs,NEC1701 FC1,"Mattuchio construction co., inc.",EQUIP_OPERATOR,Journeymen,120.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+11,2017,NEC1701 FC1 C Northern Essex Community College Underground Electrical Repairs,NEC1701 FC1,"Mattuchio construction co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Fillions's landscaping inc.,EQUIP_OPERATOR,Journeymen,19.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,HOURS_PER_MONTH
+11,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Fillions's landscaping inc.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,194.5,194.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,194.5,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,66.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,HOURS_PER_MONTH
+11,2017,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,102.0,102.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,HOURS_PER_MONTH
+11,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Journeymen,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,HOURS_PER_MONTH
+1,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,87.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0,HOURS_PER_MONTH
+1,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Bosco crane co., inc.",EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Bosco crane co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,11.5,11.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.5,HOURS_PER_MONTH
+2,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+2,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Celco construction corp.,EQUIP_OPERATOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Celco construction corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,178.5,178.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,178.5,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,22.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,HOURS_PER_MONTH
+2,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,10.5,10.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.5,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,340.24,0.0,0.0,0.0,0.0,0.0,340.24,0.0,0.0,340.24,HOURS_PER_MONTH
+5,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Journeymen,67.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,92.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,92.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+6,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,427.55,0.0,0.0,0.0,0.0,0.0,427.55,0.0,0.0,427.55,HOURS_PER_MONTH
+6,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Journeymen,269.0,269.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,269.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,7.5,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Jack moore associates, inc. / prime drilling",EQUIP_OPERATOR,Journeymen,14.5,14.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.5,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Jack moore associates, inc. / prime drilling",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+6,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"M. o'connor contracting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",EQUIP_OPERATOR,Journeymen,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,67.5,67.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.5,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,27.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,27.0,HOURS_PER_MONTH
+8,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"G.b. hastie fence co., inc.",EQUIP_OPERATOR,Journeymen,69.5,69.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.5,HOURS_PER_MONTH
+8,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"G.b. hastie fence co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,506.17,0.0,0.0,0.0,0.0,0.0,506.17,0.0,0.0,506.17,HOURS_PER_MONTH
+8,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Celco construction corp.,EQUIP_OPERATOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Celco construction corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Journeymen,152.0,152.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,152.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,90.5,90.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90.5,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,EQUIP_OPERATOR,Journeymen,37.5,37.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.5,HOURS_PER_MONTH
+10,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Journeymen,13.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Journeymen,21.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,20.75,20.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.75,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,77.0,61.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,77.0,HOURS_PER_MONTH
+10,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,116.2,0.0,0.0,0.0,0.0,0.0,116.2,0.0,0.0,116.2,HOURS_PER_MONTH
+10,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Journeymen,136.0,136.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,176.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,176.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",EQUIP_OPERATOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",EQUIP_OPERATOR,Journeymen,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,47.5,14.0,0.0,33.5,0.0,0.0,0.0,0.0,0.0,47.5,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,13.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,177.69,0.0,0.0,0.0,0.0,0.0,177.69,0.0,0.0,177.69,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Journeymen,160.0,160.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,119.5,119.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,119.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",EQUIP_OPERATOR,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+12,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Journeymen,4.5,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Journeymen,10.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+12,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,219.63,0.0,0.0,0.0,0.0,0.0,219.63,0.0,0.0,219.63,HOURS_PER_MONTH
+12,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,118.0,118.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,118.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,77.5,77.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77.5,HOURS_PER_MONTH
+12,2018,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,134.44,0.0,0.0,0.0,0.0,0.0,134.44,0.0,0.0,134.44,HOURS_PER_MONTH
+1,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,141.5,141.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,141.5,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,American steel & precast erectors,EQUIP_OPERATOR,Journeymen,62.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.0,HOURS_PER_MONTH
+2,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,American steel & precast erectors,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,8.25,8.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.25,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,85.4,0.0,0.0,0.0,0.0,0.0,85.4,0.0,0.0,85.4,HOURS_PER_MONTH
+2,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,53.5,53.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.5,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,7.5,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,7.5,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,HOURS_PER_MONTH
+2,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Journeymen,15.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,46.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,25.5,25.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.5,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+4,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Authorized services of new england,EQUIP_OPERATOR,Journeymen,10.75,10.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.75,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Authorized services of new england,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,86.75,86.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.75,HOURS_PER_MONTH
+4,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,245.34,0.0,0.0,0.0,0.0,0.0,245.34,0.0,0.0,245.34,HOURS_PER_MONTH
+4,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,161.0,161.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,161.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+4,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,Celco construction corp.,EQUIP_OPERATOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+5,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,Celco construction corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Journeymen,13.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,HOURS_PER_MONTH
+5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,185.39,0.0,0.0,0.0,0.0,0.0,185.39,0.0,0.0,185.39,HOURS_PER_MONTH
+5,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,175.5,175.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,175.5,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Authorized services of new england,EQUIP_OPERATOR,Journeymen,9.25,9.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.25,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Authorized services of new england,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,133.55,0.0,0.0,0.0,0.0,0.0,133.55,0.0,0.0,133.55,HOURS_PER_MONTH
+6,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,163.0,163.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,163.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,8.5,8.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.5,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Journeymen,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,HOURS_PER_MONTH
+7,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"S&f concrete contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,W.l. french excavating corp.,EQUIP_OPERATOR,Journeymen,120.5,0.0,120.5,0.0,0.0,0.0,0.0,0.0,0.0,120.5,HOURS_PER_MONTH
+7,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,W.l. french excavating corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Journeymen,12.5,7.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,12.5,HOURS_PER_MONTH
+7,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Taibbi equipment corp.,EQUIP_OPERATOR,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+7,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Taibbi equipment corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Authorized services of new england,EQUIP_OPERATOR,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Authorized services of new england,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,10.79,0.0,0.0,0.0,0.0,0.0,10.79,0.0,0.0,10.79,HOURS_PER_MONTH
+7,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,161.5,161.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,161.5,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,W.l. french excavating corp.,EQUIP_OPERATOR,Journeymen,120.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+8,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,W.l. french excavating corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Journeymen,6.5,3.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,6.5,HOURS_PER_MONTH
+8,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,EQUIP_OPERATOR,Journeymen,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+8,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Journeymen,22.5,22.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.5,HOURS_PER_MONTH
+8,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,1.35,0.0,0.0,0.0,0.0,0.0,1.35,0.0,0.0,1.35,HOURS_PER_MONTH
+8,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,425.5,425.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,425.5,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,10.5,10.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.5,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,HOURS_PER_MONTH
+8,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,137.0,137.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,137.0,HOURS_PER_MONTH
+9,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+9,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,EQUIP_OPERATOR,Journeymen,4.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+9,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,78.03,0.0,0.0,0.0,0.0,0.0,78.03,0.0,0.0,78.03,HOURS_PER_MONTH
+9,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,271.5,271.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,271.5,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,47.5,47.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.5,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,472.0,472.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,472.0,HOURS_PER_MONTH
+10,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,285.0,276.5,0.0,0.0,0.0,8.5,0.0,0.0,115.0,170.0,HOURS_PER_MONTH
+10,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,53.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0,HOURS_PER_MONTH
+10,2019,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,449.5,449.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,449.5,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,28.5,28.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.5,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,772.0,772.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,772.0,HOURS_PER_MONTH
+11,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,438.0,438.0,0.0,0.0,0.0,0.0,0.0,0.0,187.0,251.0,HOURS_PER_MONTH
+11,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,"J & s concrete pumping and grouting, inc.",EQUIP_OPERATOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+11,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,"J & s concrete pumping and grouting, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Brightview landscape,EQUIP_OPERATOR,Journeymen,16.12,16.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.12,HOURS_PER_MONTH
+11,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Brightview landscape,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Journeymen,162.0,162.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,162.0,HOURS_PER_MONTH
+11,2019,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Journeymen,60.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,HOURS_PER_MONTH
+11,2019,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,318.5,318.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,318.5,HOURS_PER_MONTH
+11,2019,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,269.0,269.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,269.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,13.5,13.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.5,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,7.5,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,HOURS_PER_MONTH
+11,2019,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,11.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,HOURS_PER_MONTH
+11,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,812.0,812.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,812.0,HOURS_PER_MONTH
+12,2019,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,325.0,302.0,23.0,0.0,0.0,0.0,0.0,0.0,143.0,182.0,HOURS_PER_MONTH
+12,2019,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,35.5,35.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.5,HOURS_PER_MONTH
+12,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,Dagle electrical construction corp.,EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+12,2019,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,Dagle electrical construction corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Journeymen,35.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,HOURS_PER_MONTH
+12,2019,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,460.5,460.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,460.5,HOURS_PER_MONTH
+12,2019,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,86.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0,HOURS_PER_MONTH
+12,2019,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,28.7,0.0,0.0,0.0,0.0,0.0,28.7,0.0,0.0,28.7,HOURS_PER_MONTH
+12,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,81.0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+12,2019,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Mtj landscapes,EQUIP_OPERATOR,Journeymen,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+12,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Mtj landscapes,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,824.0,720.0,0.0,104.0,0.0,0.0,0.0,0.0,0.0,824.0,HOURS_PER_MONTH
+1,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,324.0,324.0,0.0,0.0,0.0,0.0,0.0,0.0,119.0,205.0,HOURS_PER_MONTH
+1,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,121.0,121.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,121.0,HOURS_PER_MONTH
+1,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Journeymen,49.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,HOURS_PER_MONTH
+1,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,275.0,275.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,275.0,HOURS_PER_MONTH
+1,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,161.0,161.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,161.0,HOURS_PER_MONTH
+1,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Journeymen,65.41,0.0,0.0,0.0,0.0,0.0,65.41,0.0,0.0,65.41,HOURS_PER_MONTH
+1,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,31.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,914.0,754.0,0.0,160.0,0.0,0.0,0.0,0.0,0.0,914.0,HOURS_PER_MONTH
+2,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,306.5,306.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,306.5,HOURS_PER_MONTH
+2,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,159.5,159.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,159.5,HOURS_PER_MONTH
+2,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,Dagle electrical construction corp.,EQUIP_OPERATOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+2,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,Dagle electrical construction corp.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Journeymen,25.5,25.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.5,HOURS_PER_MONTH
+2,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,181.5,181.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,181.5,HOURS_PER_MONTH
+2,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+2,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,13.5,13.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.5,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,1091.0,891.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0,1091.0,HOURS_PER_MONTH
+3,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,144.5,144.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,144.5,HOURS_PER_MONTH
+3,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,219.0,179.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,219.0,HOURS_PER_MONTH
+3,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Iron horse structures,EQUIP_OPERATOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Iron horse structures,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+3,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+3,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,25.5,25.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.5,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+4,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,102.0,102.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,HOURS_PER_MONTH
+4,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,100.0,60.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,100.0,HOURS_PER_MONTH
+4,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DCP2011 HC1 C Templeton Valley Barn Demo,DCP2011 HC1 C,J.r.vinagro corporation,EQUIP_OPERATOR,Journeymen,97.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0,HOURS_PER_MONTH
+4,2020,DCP2011 HC1 C Templeton Valley Barn Demo,DCP2011 HC1 C,J.r.vinagro corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Brightview landscape,EQUIP_OPERATOR,Journeymen,63.96,63.96,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.96,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Brightview landscape,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,HOURS_PER_MONTH
+4,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,61.5,61.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61.5,HOURS_PER_MONTH
+4,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+4,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,25.5,25.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.5,HOURS_PER_MONTH
+5,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,473.5,269.0,0.0,204.5,0.0,0.0,0.0,0.0,0.0,473.5,HOURS_PER_MONTH
+5,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Brightview landscape,EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+5,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Brightview landscape,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Iron horse structures,EQUIP_OPERATOR,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+5,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Iron horse structures,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+5,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Journeymen,33.5,33.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.5,HOURS_PER_MONTH
+5,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,"Chicopee industrial contractors, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,HOURS_PER_MONTH
+5,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+6,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,217.5,90.5,0.0,127.0,0.0,0.0,0.0,0.0,0.0,217.5,HOURS_PER_MONTH
+6,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DCP1909 OM1 C Job Order Contracting for General Contractor Services,DCP1909 OM1 C,N.e.l. corporation,EQUIP_OPERATOR,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+6,2020,DCP1909 OM1 C Job Order Contracting for General Contractor Services,DCP1909 OM1 C,N.e.l. corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Journeymen,188.0,188.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,188.0,HOURS_PER_MONTH
+6,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Pacella enterprises, inc.",EQUIP_OPERATOR,Journeymen,59.5,59.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.5,HOURS_PER_MONTH
+6,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Pacella enterprises, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,105.0,105.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,105.0,HOURS_PER_MONTH
+6,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+7,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Journeymen,94.5,94.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94.5,HOURS_PER_MONTH
+7,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,9.5,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.5,HOURS_PER_MONTH
+7,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,198.0,198.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,198.0,HOURS_PER_MONTH
+7,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+7,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Journeymen,90.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,HOURS_PER_MONTH
+7,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,15.5,15.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.5,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,385.0,385.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,385.0,HOURS_PER_MONTH
+8,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,4.5,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,HOURS_PER_MONTH
+8,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Journeymen,310.0,310.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,310.0,HOURS_PER_MONTH
+8,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,192.5,192.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,192.5,HOURS_PER_MONTH
+8,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Journeymen,200.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,HOURS_PER_MONTH
+8,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,86.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0,HOURS_PER_MONTH
+8,2020,MMA1901 DB1 C Buzzards Bay-Campus-Wide-Electrical Infrastructure Upgrade-MMA,MMA1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+8,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,290.0,290.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,290.0,HOURS_PER_MONTH
+9,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,9.5,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.5,HOURS_PER_MONTH
+9,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+9,2020,BSC1901 DB1 C BSC-Bridgewater-Campus-Wide-Electrical Infrastructure Upgrade,BSC1901 DB1 C,Lawrence lynch corp,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Journeymen,240.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,240.0,HOURS_PER_MONTH
+9,2020,CCC1901 DC1 New Science and Engineering Building Cape Cod Community College,CCC1901 DC1 CM,J.r.vinagro corporation,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,190.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,190.0,HOURS_PER_MONTH
+9,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Journeymen,2.25,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,HOURS_PER_MONTH
+9,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Journeymen,104.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+9,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Costello dismantling co., inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,EHS11O1 HC2 Monson Development Center Landfill and Fuel Storage Tank Closure,EHS1101 HC2 C,"Maverick construction management services, inc.",EQUIP_OPERATOR,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+9,2020,EHS11O1 HC2 Monson Development Center Landfill and Fuel Storage Tank Closure,EHS1101 HC2 C,"Maverick construction management services, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+9,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,35.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,HOURS_PER_MONTH
+9,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+10,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,"Bond brothers, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,301.0,285.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,301.0,HOURS_PER_MONTH
+10,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Journeymen,3.75,3.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.75,HOURS_PER_MONTH
+10,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Pacella enterprises, inc.",EQUIP_OPERATOR,Journeymen,14.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,HOURS_PER_MONTH
+10,2020,DPH1641 DC2 CM Massachusetts Department of Public Health: JP Campus Biologics Building Demolition,DPH1641 DC2 CM,"Pacella enterprises, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+10,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,44.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,HOURS_PER_MONTH
+10,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,300.5,292.5,0.0,8.0,0.0,0.0,0.0,0.0,0.0,300.5,HOURS_PER_MONTH
+11,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Journeymen,3.25,3.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.25,HOURS_PER_MONTH
+11,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DMH2004 - Taunton Chambers Building,DMH2004,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,1.5,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,HOURS_PER_MONTH
+11,2020,DMH2004 - Taunton Chambers Building,DMH2004,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,EHS11O1 HC2 Monson Development Center Landfill and Fuel Storage Tank Closure,EHS1101 HC2 C,"Maverick construction management services, inc.",EQUIP_OPERATOR,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+11,2020,EHS11O1 HC2 Monson Development Center Landfill and Fuel Storage Tank Closure,EHS1101 HC2 C,"Maverick construction management services, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+11,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,188.0,188.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,188.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Journeymen,198.0,198.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,198.0,HOURS_PER_MONTH
+12,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"J.l. marshall and sons, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Journeymen,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,HOURS_PER_MONTH
+12,2020,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,"Wayne j. griffin electric, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DMH2004 - Taunton Chambers Building,DMH2004,"Marguerite concrete, inc.",EQUIP_OPERATOR,Journeymen,21.75,21.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.75,HOURS_PER_MONTH
+12,2020,DMH2004 - Taunton Chambers Building,DMH2004,"Marguerite concrete, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+12,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,EHS11O1 HC2 Monson Development Center Landfill and Fuel Storage Tank Closure,EHS1101 HC2 C,"Maverick construction management services, inc.",EQUIP_OPERATOR,Journeymen,153.0,153.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,153.0,HOURS_PER_MONTH
+12,2020,EHS11O1 HC2 Monson Development Center Landfill and Fuel Storage Tank Closure,EHS1101 HC2 C,"Maverick construction management services, inc.",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,NEC2001 Northern Essex Community College Campus Wide Sewer/Drainage/Electrical Upgrades,NEC2001 C,Northern land clearing inc.,EQUIP_OPERATOR,Journeymen,6.5,6.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,HOURS_PER_MONTH
+12,2020,NEC2001 Northern Essex Community College Campus Wide Sewer/Drainage/Electrical Upgrades,NEC2001 C,Northern land clearing inc.,EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+12,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Journeymen,9.5,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.5,HOURS_PER_MONTH
+12,2020,POL1303 DC1 CM State Police Lower Basin Barracks Modernization and Expansion,POL1303 DC1 CM,"Daniel o'connell's sons, inc",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Journeymen,69.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Dow company, inc., the",EQUIP_OPERATOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH

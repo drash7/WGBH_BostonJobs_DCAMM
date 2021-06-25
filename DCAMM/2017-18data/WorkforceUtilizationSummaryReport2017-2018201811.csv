@@ -1,0 +1,393 @@
+MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
+11,2018,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,"Adams plumbing & heating, inc.",PLUMBERS & GASFITTERS,Journeymen,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+11,2018,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,"Adams plumbing & heating, inc.",PLUMBERS & GASFITTERS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Batallas electric inc.,ELECTRICIAN,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Batallas electric inc.,ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Batallas electric inc.,LABORER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Batallas electric inc.,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Adams plumbing & heating, inc.",PLUMBERS & GASFITTERS,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Adams plumbing & heating, inc.",PLUMBERS & GASFITTERS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Central ceilings, inc.",CARPENTER,Journeymen,67.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Central ceilings, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Cogswell sprinkler co., inc.",SPRINKLER FITTER,Journeymen,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Cogswell sprinkler co., inc.",SPRINKLER FITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",EQUIPMENT OPERATOR (Class A CDL),Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",EQUIPMENT OPERATOR (Class A CDL),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",LABORER,Journeymen,136.0,120.0,8.0,8.0,0.0,0.0,0.0,0.0,16.0,120.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Commonwealth guardrail, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,BACKHOE/FRONT-END LOADER,Journeymen,178.0,178.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,178.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,BACKHOE/FRONT-END LOADER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,DRIVER / GROUNDMAN CDL,Journeymen,31.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,DRIVER / GROUNDMAN CDL,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,LABORER,Journeymen,87.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Crestview construction & trucking inc.,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER (GLASS PLANK/AIR BARRIER/INTERIOR SYSTEMS),Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Eastfield glass co,. inc.",GLAZIER (GLASS PLANK/AIR BARRIER/INTERIOR SYSTEMS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"General mechanical contractors, inc.",PIPEFITTER & STEAMFITTER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"General mechanical contractors, inc.",PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"General mechanical contractors, inc.",SHEETMETAL WORKER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"General mechanical contractors, inc.",SHEETMETAL WORKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.","PAINTER / TAPER (BRUSH, NEW)",Journeymen,29.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,29.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.","PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSULATOR (PIPES & TANKS),Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSULATOR (PIPES & TANKS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"New england door closer,inc,",CARPENTER,Journeymen,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"New england door closer,inc,",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"New england partition & installation, llc",CARPENTER,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"New england partition & installation, llc",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Orlando annulli & sons, inc.",CARPENTER,Journeymen,239.0,239.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,239.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Orlando annulli & sons, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Orlando annulli & sons, inc.",LABORER,Journeymen,308.5,308.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,308.5,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Orlando annulli & sons, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Palma inc.,CEMENT MASONRY/PLASTERING,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Palma inc.,CEMENT MASONRY/PLASTERING,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Performance testing and balancing,HVAC (TESTING AND BALANCING - AIR),Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Performance testing and balancing,HVAC (TESTING AND BALANCING - AIR),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",CARPENTER,Journeymen,78.29,59.74,0.0,0.0,0.0,0.0,0.0,18.55,0.0,78.29,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",LABORER: CARPENTER TENDER,Journeymen,8.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",LABORER: CARPENTER TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.","PAINTER / TAPER (BRUSH, NEW)",Journeymen,26.48,0.0,0.0,26.48,0.0,0.0,0.0,0.0,0.0,26.48,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.","PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Pioneer landscapes,BACKHOE/FRONT-END LOADER,Journeymen,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Pioneer landscapes,BACKHOE/FRONT-END LOADER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Pioneer landscapes,LABORER,Journeymen,31.5,31.5,0.0,0.0,0.0,0.0,0.0,0.0,7.5,24.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Pioneer landscapes,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Saltbox millwork , llc",CARPENTER,Journeymen,126.0,126.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,126.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Saltbox millwork , llc",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Superior caulking & waterproofing co., inc.",BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,49.5,0.0,33.0,16.5,0.0,0.0,0.0,0.0,0.0,49.5,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Superior caulking & waterproofing co., inc.",BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Synergy electrical systems llc,ELECTRICIAN,Journeymen,53.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Synergy electrical systems llc,ELECTRICIAN,Apprentice,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ultimate construction, llc",CARPENTER,Journeymen,51.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ultimate construction, llc",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Universal electric company, inc.",ELECTRICIAN,Journeymen,152.0,152.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,152.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Universal electric company, inc.",ELECTRICIAN,Apprentice,125.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Charles services & equipment,LABORER: MULTI-TRADE TENDER,Journeymen,79.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Charles services & equipment,LABORER: MULTI-TRADE TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Helical drilling,HOISTING ENGINEER/CRANES/GRADALLS,Journeymen,85.5,43.5,0.0,42.0,0.0,0.0,0.0,0.0,0.0,85.5,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Helical drilling,HOISTING ENGINEER/CRANES/GRADALLS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Helical drilling,LABORER,Journeymen,131.75,91.75,0.0,40.0,0.0,0.0,0.0,0.0,0.0,131.75,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,Helical drilling,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Jupiter electric, inc.",ELECTRICIAN,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Jupiter electric, inc.",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"United civil, inc.",BACKHOE/FRONT-END LOADER,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"United civil, inc.",BACKHOE/FRONT-END LOADER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"United civil, inc.",LABORER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+11,2018,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"United civil, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,"Arden engineering constructors, llc",PIPEFITTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,"Arden engineering constructors, llc",PIPEFITTER,Apprentice,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,"Arden engineering constructors, llc",PIPEFITTER & STEAMFITTER,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+11,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,"Arden engineering constructors, llc",PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,"Jm electrical company, inc",ELECTRICIAN,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,"Jm electrical company, inc",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Journeymen,261.0,261.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,261.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,A&a window products inc.,GLAZIER,Apprentice,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,"Annese electrical services, inc.",ELECTRICIAN,Journeymen,123.0,115.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,123.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,"Annese electrical services, inc.",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Calhess restoration & waterproofing corp.,BRICK/PLASTER/CEMENT MASON,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Calhess restoration & waterproofing corp.,BRICK/PLASTER/CEMENT MASON,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Calhess restoration & waterproofing corp.,BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,346.0,346.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,346.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Calhess restoration & waterproofing corp.,BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Calhess restoration & waterproofing corp.,LABORER: MASON TENDER,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Calhess restoration & waterproofing corp.,LABORER: MASON TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,"Lanco scaffolding, inc.",CARPENTER,Journeymen,160.0,0.0,0.0,160.0,0.0,0.0,0.0,0.0,0.0,160.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,"Lanco scaffolding, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,"Lanco scaffolding, inc.",LABORER,Journeymen,160.0,0.0,0.0,160.0,0.0,0.0,0.0,0.0,0.0,160.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,"Lanco scaffolding, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,ELEVATOR CONSTRUCTOR,Journeymen,263.5,263.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,263.5,HOURS_PER_MONTH
+11,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,Thyssenkrupp elevator corp.,ELEVATOR CONSTRUCTOR,Apprentice,247.5,247.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,247.5,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,CARPENTER,Journeymen,120.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,IRONWORKER/WELDER,Journeymen,128.0,0.0,0.0,128.0,0.0,0.0,0.0,0.0,0.0,128.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,LABORER,Journeymen,288.0,0.0,0.0,288.0,0.0,0.0,0.0,0.0,0.0,288.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,LABORER: CARPENTER TENDER,Journeymen,83.0,0.0,0.0,83.0,0.0,0.0,0.0,0.0,0.0,83.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Acv concrete llc,LABORER: CARPENTER TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Annese electrical services, inc.",ELECTRICIAN,Journeymen,60.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Annese electrical services, inc.",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Aucoin telecom & utilities, llc",TELECOMMUNICATION TECHNICIAN,Journeymen,124.0,124.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,124.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Aucoin telecom & utilities, llc",TELECOMMUNICATION TECHNICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Debrino caulking associates inc.,BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,28.0,18.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,28.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Debrino caulking associates inc.,BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,BACKHOE/FRONT-END LOADER,Journeymen,129.0,129.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,BACKHOE/FRONT-END LOADER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,DRIVER,Journeymen,70.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,DRIVER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,LABORER,Journeymen,51.75,51.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.75,HOURS_PER_MONTH
+11,2018,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Nashoba paving,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"J.c. cannistraro, llc",PIPEFITTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"J.c. cannistraro, llc",PIPEFITTER,Apprentice,128.0,128.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,HOURS_PER_MONTH
+11,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"J.c. cannistraro, llc",PIPEFITTER & STEAMFITTER,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+11,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"J.c. cannistraro, llc",PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Jm electrical company, inc",ELECTRICIAN,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Jm electrical company, inc",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Automated building systems,ELECTRICIAN,Journeymen,159.0,159.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,159.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Automated building systems,ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Batallas electric inc.,ELECTRICIAN,Journeymen,14.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Batallas electric inc.,ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Batallas electric inc.,LABORER,Journeymen,14.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Batallas electric inc.,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"General mechanical contractors, inc.",PLUMBERS & GASFITTERS,Journeymen,81.5,81.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.5,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"General mechanical contractors, inc.",PLUMBERS & GASFITTERS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"General mechanical contractors, inc.",SHEETMETAL WORKER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,"General mechanical contractors, inc.",SHEETMETAL WORKER,Apprentice,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",FORK LIFT/CHERRY PICKER,Journeymen,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",FORK LIFT/CHERRY PICKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",HVAC MECHANIC,Journeymen,76.75,76.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.75,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",HVAC MECHANIC,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",PIPEFITTER & STEAMFITTER,Journeymen,516.0,516.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,420.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",PLUMBERS & GASFITTERS,Journeymen,110.5,110.5,0.0,0.0,0.0,0.0,0.0,0.0,32.0,78.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",PLUMBERS & GASFITTERS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",SHEETMETAL WORKER,Journeymen,438.0,438.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,438.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Adams plumbing & heating, inc.",SHEETMETAL WORKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Archer corp,CARPENTER,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Archer corp,CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Ayotte and king for tile inc.,MARBLE & TILE FINISHERS,Journeymen,139.5,139.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,139.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Ayotte and king for tile inc.,MARBLE & TILE FINISHERS,Apprentice,162.0,162.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,162.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Ayotte and king for tile inc.,"MARBLE MASONS, TILELAYERS & TERRAZZO MECH",Journeymen,475.0,475.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,475.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Ayotte and king for tile inc.,"MARBLE MASONS, TILELAYERS & TERRAZZO MECH",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Bay state building specialties, inc",CARPENTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Bay state building specialties, inc",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Blue construction, inc.",LABORER,Journeymen,160.0,160.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Blue construction, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Central ceilings, inc.",CARPENTER,Journeymen,360.0,360.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,360.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Central ceilings, inc.",CARPENTER,Apprentice,256.0,96.0,160.0,0.0,0.0,0.0,0.0,0.0,256.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",CARPENTER,Journeymen,377.0,369.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,377.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER (GLASS PLANK/AIR BARRIER/INTERIOR SYSTEMS),Journeymen,385.5,385.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,385.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Chandler architectural products, inc.",GLAZIER (GLASS PLANK/AIR BARRIER/INTERIOR SYSTEMS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,ASBESTOS INSULATOR (PIPES & TANKS),Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,ASBESTOS INSULATOR (PIPES & TANKS),Apprentice,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSULATOR (PIPES & TANKS),Journeymen,150.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSULATOR (PIPES & TANKS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,"PAINTER (SPRAY OR SANDBLAST, NEW)",Journeymen,136.0,136.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,"PAINTER (SPRAY OR SANDBLAST, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,"PAINTER / TAPER (BRUSH, NEW)",Journeymen,130.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,130.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,"PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"K&m fire protection services, inc.",SPRINKLER FITTER,Journeymen,156.5,156.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,156.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"K&m fire protection services, inc.",SPRINKLER FITTER,Apprentice,102.0,0.0,102.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,"PAINTER / TAPER (BRUSH, NEW)",Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,"PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,LABORER: MULTI-TRADE TENDER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Mtj landscapes,LABORER: MULTI-TRADE TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Pavilion floors, inc.",FLOORCOVERER,Journeymen,8.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Pavilion floors, inc.",FLOORCOVERER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,"PAINTER / TAPER (BRUSH, NEW)",Journeymen,91.0,0.0,0.0,91.0,0.0,0.0,0.0,0.0,91.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,"PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,"PAINTER / TAPER (BRUSH,REPAINT)",Journeymen,184.0,40.0,0.0,144.0,0.0,0.0,0.0,0.0,0.0,184.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,"PAINTER / TAPER (BRUSH,REPAINT)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Smj metal company, inc.",IRONWORKER/WELDER,Journeymen,18.5,18.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Smj metal company, inc.",IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Sullivan & narey construction company, inc.",BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,72.0,16.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Sullivan & narey construction company, inc.",BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Sullivan & narey construction company, inc.",LABORER: MASON TENDER,Journeymen,46.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Sullivan & narey construction company, inc.",LABORER: MASON TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Superior caulking & waterproofing co., inc.",BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,274.0,218.0,31.0,25.0,0.0,0.0,0.0,0.0,0.0,274.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Superior caulking & waterproofing co., inc.",BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Synergy electrical systems llc,ELECTRICIAN,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Synergy electrical systems llc,ELECTRICIAN,Apprentice,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,T & m equipment corporation,BACKHOE/FRONT-END LOADER,Journeymen,345.5,345.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,345.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,T & m equipment corporation,BACKHOE/FRONT-END LOADER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,T & m equipment corporation,LABORER,Journeymen,371.0,368.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,371.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,T & m equipment corporation,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",OTHER POWER DRIVEN EQUIPMENT - CLASS II,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",OTHER POWER DRIVEN EQUIPMENT - CLASS II,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",ROOFER,Journeymen,272.0,272.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,272.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",ROOFER,Apprentice,41.5,12.5,16.0,13.0,0.0,0.0,0.0,0.0,0.0,41.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",SHEETMETAL WORKER,Journeymen,77.5,77.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Titan roofing, inc.",SHEETMETAL WORKER,Apprentice,61.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Wayne j. griffin electric, inc.",ELECTRICIAN,Journeymen,947.25,859.25,0.0,88.0,0.0,0.0,0.0,0.0,0.0,947.25,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Wayne j. griffin electric, inc.",ELECTRICIAN,Apprentice,313.5,313.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,313.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Wayne j. griffin electric, inc.",TELECOMMUNICATION TECHNICIAN,Journeymen,45.5,45.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.5,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,"Wayne j. griffin electric, inc.",TELECOMMUNICATION TECHNICIAN,Apprentice,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2018,IFM1506 C Fire Alarm Protection Maintenance Central Region Metro Boston,IFM1506 C,"Electrical dynamics, inc.",FIRE ALARM REPAIR / MAINTENANCE,Journeymen,30.0,22.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,30.0,HOURS_PER_MONTH
+11,2018,IFM1506 C Fire Alarm Protection Maintenance Central Region Metro Boston,IFM1506 C,"Electrical dynamics, inc.",FIRE ALARM REPAIR / MAINTENANCE,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,IFM1507 C Fire Alarm Protection Maintenance Northeast and Southeast Region Metro Boston,IFM1507,"Electrical dynamics, inc.",FIRE ALARM REPAIR / MAINTENANCE,Journeymen,184.0,126.0,0.0,56.0,2.0,0.0,0.0,0.0,0.0,184.0,HOURS_PER_MONTH
+11,2018,IFM1507 C Fire Alarm Protection Maintenance Northeast and Southeast Region Metro Boston,IFM1507,"Electrical dynamics, inc.",FIRE ALARM REPAIR / MAINTENANCE,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Acme waterproofing company, inc.",BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,191.0,107.0,0.0,84.0,0.0,0.0,0.0,0.0,0.0,191.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Acme waterproofing company, inc.",BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Cd masonry & construction, llc",BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Cd masonry & construction, llc",BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Cd masonry & construction, llc",LABORER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Cd masonry & construction, llc",LABORER,Apprentice,57.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Journeymen,482.0,482.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,354.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"Chandler architectural products, inc.",GLAZIER,Apprentice,176.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,176.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Chapman waterproofing company,BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,120.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Chapman waterproofing company,BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Chapman waterproofing company,LABORER,Journeymen,11.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Chapman waterproofing company,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Crocker architectural sheet metal,SHEETMETAL WORKER,Journeymen,69.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,Crocker architectural sheet metal,SHEETMETAL WORKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"G & r construction, inc.",CARPENTER,Journeymen,206.0,206.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,206.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"G & r construction, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",ADS/SUBMERSIBLE PILOT,Journeymen,65.75,65.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.75,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",ADS/SUBMERSIBLE PILOT,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",DRIVER,Journeymen,37.75,37.75,0.0,0.0,0.0,0.0,0.0,0.0,14.5,23.25,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",DRIVER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIPMENT OPERATOR (Class A CDL),Journeymen,47.5,14.0,0.0,33.5,0.0,0.0,0.0,0.0,0.0,47.5,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIPMENT OPERATOR (Class A CDL),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIPMENT OPERATOR (Class B CDL),Journeymen,13.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",EQUIPMENT OPERATOR (Class B CDL),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",LABORER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",LABORER,Apprentice,18.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",LABORER: MULTI-TRADE TENDER,Journeymen,256.5,41.25,0.0,215.25,0.0,0.0,0.0,0.0,41.0,215.5,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,"J tropeano, inc.",LABORER: MULTI-TRADE TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,L&l contracting,IRONWORKER/WELDER,Journeymen,25.5,0.0,0.0,25.5,0.0,0.0,0.0,0.0,0.0,25.5,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,L&l contracting,IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,L&l contracting,LABORER,Journeymen,25.5,0.0,0.0,16.5,0.0,0.0,9.0,0.0,0.0,25.5,HOURS_PER_MONTH
+11,2018,NEC1601 HC1 C Northern Essex Community College Lawrence Campus Dimitry Exterior Improvements,NEC1601 HC1 C,L&l contracting,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Royal steam heater company,PIPEFITTER & STEAMFITTER,Journeymen,23.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,HOURS_PER_MONTH
+11,2018,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Royal steam heater company,PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Royal steam heater company,PLUMBERS & GASFITTERS,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Royal steam heater company,PLUMBERS & GASFITTERS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Cogswell sprinkler co., inc.",SPRINKLER FITTER,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Cogswell sprinkler co., inc.",SPRINKLER FITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Dmh electric, inc.",ELECTRICIAN,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Dmh electric, inc.",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Greenwood industries, inc",SHEETMETAL WORKER,Journeymen,1.5,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Greenwood industries, inc",SHEETMETAL WORKER,Apprentice,2.25,2.25,0.0,0.0,0.0,0.0,0.0,0.0,2.25,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Mill city construction, inc.",CARPENTER,Journeymen,146.25,146.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,146.25,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Mill city construction, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",CARPENTER,Journeymen,108.0,54.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,108.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.","PAINTER / TAPER (BRUSH, NEW)",Journeymen,54.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.","PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",ASBESTOS INSULATOR (PIPES & TANKS),Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",ASBESTOS INSULATOR (PIPES & TANKS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSULATOR (PIPES & TANKS),Journeymen,100.0,52.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,100.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSULATOR (PIPES & TANKS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"J.c. cannistraro, llc",PIPEFITTER & STEAMFITTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"J.c. cannistraro, llc",PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"J.c. cannistraro, llc",SHEETMETAL WORKER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"J.c. cannistraro, llc",SHEETMETAL WORKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Jm electrical company, inc",ELECTRICIAN,Journeymen,156.0,140.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,156.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Jm electrical company, inc",ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,Mass bay electrical corp.,ELECTRICIAN,Journeymen,41.0,30.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,41.0,HOURS_PER_MONTH
+11,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,Mass bay electrical corp.,ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Automated logic contracting services,HVAC MECHANIC,Journeymen,90.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,HOURS_PER_MONTH
+11,2018,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Automated logic contracting services,HVAC MECHANIC,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,"Millennium builders, inc.",CARPENTER,Journeymen,160.0,160.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.0,HOURS_PER_MONTH
+11,2018,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,"Millennium builders, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,DRIVER,Journeymen,2.42,0.0,0.0,0.0,0.0,0.0,2.42,0.0,0.0,2.42,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,DRIVER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIPMENT OPERATOR (Class A CDL),Journeymen,177.69,0.0,0.0,0.0,0.0,0.0,177.69,0.0,0.0,177.69,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,EQUIPMENT OPERATOR (Class A CDL),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,LABORER,Journeymen,5.07,0.0,0.0,0.0,0.0,0.0,5.07,0.0,0.0,5.07,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Gml construction inc,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,N b kenney company,PIPEFITTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,N b kenney company,PIPEFITTER,Apprentice,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,N b kenney company,PLUMBERS & GASFITTERS,Journeymen,58.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,N b kenney company,PLUMBERS & GASFITTERS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Silverback concrete construction, inc.",CARPENTER,Journeymen,17.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,HOURS_PER_MONTH
+11,2018,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"Silverback concrete construction, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Acme waterproofing company, inc.",BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,90.0,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,90.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Acme waterproofing company, inc.",BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Action steel, llc",IRONWORKER/WELDER,Journeymen,567.5,428.0,0.0,0.0,0.0,139.5,0.0,0.0,0.0,567.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Action steel, llc",IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Automated building systems,ELECTRICIAN,Journeymen,660.0,660.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,660.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Automated building systems,ELECTRICIAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Central ceilings, inc.",CARPENTER,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Central ceilings, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Journeymen,48.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER,Apprentice,141.0,0.0,0.0,141.0,0.0,0.0,0.0,0.0,0.0,141.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER (GLASS PLANK/AIR BARRIER/INTERIOR SYSTEMS),Journeymen,530.5,530.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,530.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",GLAZIER (GLASS PLANK/AIR BARRIER/INTERIOR SYSTEMS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",IRONWORKER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",IRONWORKER,Apprentice,197.0,0.0,0.0,197.0,0.0,0.0,0.0,0.0,0.0,197.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",IRONWORKER/WELDER,Journeymen,356.0,356.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,356.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",OTHER POWER DRIVEN EQUIPMENT - CLASS II,Journeymen,160.0,160.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Cherry hill glass co., inc.",OTHER POWER DRIVEN EQUIPMENT - CLASS II,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Chet's welding inc.,DRIVER,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Chet's welding inc.,DRIVER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Chet's welding inc.,HOISTING ENGINEER/CRANES/GRADALLS,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Chet's welding inc.,HOISTING ENGINEER/CRANES/GRADALLS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Clifford & galvin contracting,CARPENTER,Journeymen,3723.5,2940.5,0.0,783.0,0.0,0.0,0.0,0.0,0.0,3723.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Clifford & galvin contracting,CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Clifford & galvin contracting,LABORER,Journeymen,405.0,405.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,405.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Clifford & galvin contracting,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.","PAINTER / TAPER (BRUSH, NEW)",Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.","PAINTER / TAPER (BRUSH, NEW)",Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,ELEVATOR CONSTRUCTOR,Journeymen,306.25,306.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,306.25,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,ELEVATOR CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,ELEVATOR CONSTRUCTOR HELPER,Journeymen,395.5,395.5,0.0,0.0,0.0,0.0,0.0,0.0,126.0,269.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Delta beckwith elevator,ELEVATOR CONSTRUCTOR HELPER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Dimeo construction company,CARPENTER,Journeymen,200.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Dimeo construction company,CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Dimeo construction company,LABORER,Journeymen,667.0,546.0,0.0,121.0,0.0,0.0,0.0,0.0,0.0,667.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Dimeo construction company,LABORER,Apprentice,178.0,0.0,0.0,178.0,0.0,0.0,0.0,0.0,178.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIPMENT OPERATOR (Class A CDL),Journeymen,119.5,119.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,119.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",EQUIPMENT OPERATOR (Class A CDL),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",LABORER,Journeymen,181.5,181.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,181.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dow company, inc., the",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"E. amanti & sons, inc",PLUMBERS & GASFITTERS,Journeymen,1093.5,969.5,124.0,0.0,0.0,0.0,0.0,0.0,0.0,1093.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"E. amanti & sons, inc",PLUMBERS & GASFITTERS,Apprentice,74.0,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSULATOR (PIPES & TANKS),Journeymen,420.5,357.0,0.0,47.5,16.0,0.0,0.0,0.0,47.5,373.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSULATOR (PIPES & TANKS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Empire masonry corporation,BRICK/STONE/ARTIFICIAL MASONRY,Journeymen,244.0,244.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,244.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Empire masonry corporation,BRICK/STONE/ARTIFICIAL MASONRY,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Empire masonry corporation,LABORER: MASON TENDER,Journeymen,74.0,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Empire masonry corporation,LABORER: MASON TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",CARPENTER,Journeymen,162.0,162.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,162.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",IRONWORKER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",IRONWORKER,Apprentice,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",IRONWORKER/WELDER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",LABORER,Journeymen,152.0,144.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,152.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Federal concrete, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Feeley, mcanespie",ROOFER,Journeymen,260.5,239.5,0.0,21.0,0.0,0.0,0.0,0.0,0.0,260.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Feeley, mcanespie",ROOFER,Apprentice,50.0,25.5,14.0,10.5,0.0,0.0,0.0,0.0,0.0,50.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Hampshire fire protection company, llc",SPRINKLER FITTER,Journeymen,291.5,214.0,0.0,0.0,0.0,0.0,77.5,0.0,0.0,291.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Hampshire fire protection company, llc",SPRINKLER FITTER,Apprentice,233.5,94.5,0.0,139.0,0.0,0.0,0.0,0.0,0.0,233.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSULATOR (PIPES & TANKS),Journeymen,35.0,21.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,35.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSULATOR (PIPES & TANKS),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Lymo construction co., inc.",CARPENTER,Journeymen,778.5,398.5,0.0,254.0,0.0,126.0,0.0,0.0,0.0,778.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Lymo construction co., inc.",CARPENTER,Apprentice,295.0,295.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0,191.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",CEMENT MASONRY/PLASTERING,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",CEMENT MASONRY/PLASTERING,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",HOISTING ENGINEER/CRANES/GRADALLS,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",HOISTING ENGINEER/CRANES/GRADALLS,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",LABORER,Journeymen,40.0,24.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",PUMP OPERATOR (CONCRETE),Journeymen,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Marguerite concrete, inc.",PUMP OPERATOR (CONCRETE),Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Patrick j. kennedy & sons,PIPEFITTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Patrick j. kennedy & sons,PIPEFITTER,Apprentice,304.0,144.0,0.0,160.0,0.0,0.0,0.0,0.0,0.0,304.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Patrick j. kennedy & sons,PIPEFITTER & STEAMFITTER,Journeymen,1134.0,1134.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1134.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Patrick j. kennedy & sons,PIPEFITTER & STEAMFITTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Pro cut inc.,LABORER: MULTI-TRADE TENDER,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Pro cut inc.,LABORER: MULTI-TRADE TENDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Ricmor construction, inc.",CEMENT MASONRY/PLASTERING,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Ricmor construction, inc.",CEMENT MASONRY/PLASTERING,Apprentice,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Ricmor construction, inc.",LABORER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Ricmor construction, inc.",LABORER,Apprentice,68.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,20.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",ELEVATOR CONSTRUCTOR,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",ELEVATOR CONSTRUCTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",IRONWORKER/WELDER,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",MECHANICS MAINTENANCE,Journeymen,416.0,416.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,416.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Safway services llc, inc.",MECHANICS MAINTENANCE,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",CARPENTER,Journeymen,546.5,495.0,0.0,51.5,0.0,0.0,0.0,0.0,0.0,546.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",CARPENTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",LABORER,Journeymen,328.0,328.0,0.0,0.0,0.0,0.0,0.0,0.0,168.0,160.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Total wall systems inc.,CARPENTER,Journeymen,480.0,480.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,480.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Total wall systems inc.,CARPENTER,Apprentice,112.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,V&g iron works corporation,IRONWORKER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,V&g iron works corporation,IRONWORKER,Apprentice,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,V&g iron works corporation,IRONWORKER/WELDER,Journeymen,153.5,153.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,153.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,V&g iron works corporation,IRONWORKER/WELDER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,V&g iron works corporation,LABORER,Journeymen,66.5,22.0,0.0,44.5,0.0,0.0,0.0,0.0,0.0,66.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,V&g iron works corporation,LABORER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Wayne j. griffin electric, inc.",ELECTRICIAN,Journeymen,2243.75,1926.75,158.0,159.0,0.0,0.0,0.0,0.0,0.0,2243.75,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Wayne j. griffin electric, inc.",ELECTRICIAN,Apprentice,1185.0,849.0,0.0,336.0,0.0,0.0,0.0,0.0,144.0,1041.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Wayne j. griffin electric, inc.",TELECOMMUNICATION TECHNICIAN,Journeymen,254.5,254.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,254.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Wayne j. griffin electric, inc.",TELECOMMUNICATION TECHNICIAN,Apprentice,104.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Worcester air conditioning, llc",SHEETMETAL WORKER,Journeymen,746.5,746.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,746.5,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Worcester air conditioning, llc",SHEETMETAL WORKER,Apprentice,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+11,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"E. amanti & sons, inc",SHEETMETAL WORKER,Journeymen,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,HOURS_PER_MONTH
+11,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"E. amanti & sons, inc",SHEETMETAL WORKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH

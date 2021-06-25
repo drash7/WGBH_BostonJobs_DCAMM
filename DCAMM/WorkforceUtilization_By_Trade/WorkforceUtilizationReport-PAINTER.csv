@@ -1,0 +1,425 @@
+MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
+8,2017,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,20.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+8,2017,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"O'byrne painting & contracting, inc.",PAINTER,Journeymen,81.0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.0,HOURS_PER_MONTH
+8,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"O'byrne painting & contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+10,2017,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"O'byrne painting & contracting, inc.",PAINTER,Journeymen,65.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,HOURS_PER_MONTH
+10,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"O'byrne painting & contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,75.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,HOURS_PER_MONTH
+10,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Brunswick building systems, inc.",PAINTER,Journeymen,56.0,0.0,0.0,0.0,0.0,0.0,56.0,0.0,0.0,56.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Brunswick building systems, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,104.0,80.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,64.0,0.0,0.0,64.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+2,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,32.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,73.0,57.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,73.0,HOURS_PER_MONTH
+2,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,14.0,6.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,14.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,39.43,0.0,0.0,0.0,0.0,0.0,0.0,39.43,0.0,39.43,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,HOURS_PER_MONTH
+5,2018,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,133.0,133.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,133.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,141.0,141.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,141.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,137.5,0.0,0.0,137.5,0.0,0.0,0.0,0.0,0.0,137.5,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,88.19,0.0,0.0,16.21,0.0,0.0,0.0,71.98,0.0,88.19,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Journeymen,96.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,48.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,119.0,119.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,119.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,16.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,158.0,158.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,158.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,132.0,132.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,132.0,HOURS_PER_MONTH
+6,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,153.0,137.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,153.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,157.54,64.52,0.0,63.2,0.0,0.0,0.0,29.82,0.0,157.54,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,62.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,132.5,0.0,0.0,132.5,0.0,0.0,0.0,0.0,0.0,132.5,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Rj forbes painting contractor, inc.",PAINTER,Journeymen,37.9,37.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.9,HOURS_PER_MONTH
+8,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Rj forbes painting contractor, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Journeymen,99.0,99.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99.0,HOURS_PER_MONTH
+8,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,62.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,38.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,134.0,134.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,134.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Journeymen,11.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,HOURS_PER_MONTH
+8,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,85.5,0.0,0.0,85.5,0.0,0.0,0.0,0.0,0.0,85.5,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,124.14,0.0,0.0,96.0,0.0,0.0,0.0,28.14,0.0,124.14,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,186.0,186.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,144.0,144.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,144.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,135.0,56.0,0.0,79.0,0.0,0.0,0.0,0.0,79.0,56.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,174.0,0.0,0.0,174.0,0.0,0.0,0.0,0.0,0.0,174.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,61.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,29.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,29.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,26.48,0.0,0.0,26.48,0.0,0.0,0.0,0.0,0.0,26.48,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,136.0,136.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,130.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,130.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,M.l. mcdonald,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,91.0,0.0,0.0,91.0,0.0,0.0,0.0,0.0,91.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,184.0,40.0,0.0,144.0,0.0,0.0,0.0,0.0,0.0,184.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Journeymen,54.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,260.0,260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,260.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,129.0,24.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0,129.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Rj forbes painting contractor, inc.",PAINTER,Journeymen,21.5,21.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.5,HOURS_PER_MONTH
+12,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Rj forbes painting contractor, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Journeymen,33.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,HOURS_PER_MONTH
+12,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,62.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,8.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,15.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,200.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,148.0,0.0,0.0,148.0,0.0,0.0,0.0,0.0,0.0,148.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Rj forbes painting contractor, inc.",PAINTER,Journeymen,20.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,HOURS_PER_MONTH
+1,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Rj forbes painting contractor, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Journeymen,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+1,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"South dartmouth construction, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,368.0,248.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,368.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,25.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,25.0,HOURS_PER_MONTH
+2,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,264.0,264.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,264.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Journeymen,120.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Skyline drywall inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,170.0,111.0,0.0,59.0,0.0,0.0,0.0,0.0,0.0,170.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,532.0,356.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,532.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",PAINTER,Journeymen,66.0,0.0,0.0,66.0,0.0,0.0,0.0,0.0,0.0,66.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,25.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,25.0,HOURS_PER_MONTH
+3,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,4.07,0.0,0.0,0.0,0.0,0.0,0.0,4.07,0.0,4.07,HOURS_PER_MONTH
+3,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,153.0,153.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,153.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,128.0,110.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,128.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,125.0,69.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,125.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,1010.5,778.5,232.0,0.0,0.0,0.0,0.0,0.0,0.0,1010.5,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",PAINTER,Journeymen,16.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Tavares, llc",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,15.5,0.0,0.0,15.5,0.0,0.0,0.0,0.0,0.0,15.5,HOURS_PER_MONTH
+4,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,144.0,20.0,0.0,124.0,0.0,0.0,0.0,0.0,0.0,144.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,246.0,139.0,0.0,107.0,0.0,0.0,0.0,0.0,0.0,246.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,946.5,692.0,168.0,86.5,0.0,0.0,0.0,0.0,0.0,946.5,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,94.0,0.0,0.0,94.0,0.0,0.0,0.0,0.0,0.0,94.0,HOURS_PER_MONTH
+5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,366.0,366.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,366.0,HOURS_PER_MONTH
+5,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,98.0,14.0,0.0,78.0,6.0,0.0,0.0,0.0,0.0,98.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,380.0,160.0,0.0,144.0,76.0,0.0,0.0,0.0,0.0,380.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,678.5,486.5,184.0,8.0,0.0,0.0,0.0,0.0,0.0,678.5,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,144.5,8.0,0.0,136.5,0.0,0.0,0.0,0.0,0.0,144.5,HOURS_PER_MONTH
+6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Journeymen,12.7,0.0,0.0,0.0,0.0,0.0,0.0,12.7,0.0,12.7,HOURS_PER_MONTH
+6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,448.0,448.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,448.0,HOURS_PER_MONTH
+6,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,46.0,24.0,0.0,4.0,18.0,0.0,0.0,0.0,0.0,46.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,545.0,218.0,0.0,307.0,20.0,0.0,0.0,0.0,0.0,545.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,670.0,526.0,144.0,0.0,0.0,0.0,0.0,0.0,0.0,670.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,38.0,6.5,0.0,31.5,0.0,0.0,0.0,0.0,0.0,38.0,HOURS_PER_MONTH
+7,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,101.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,101.0,HOURS_PER_MONTH
+7,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,16.0,8.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,308.0,135.0,0.0,125.0,48.0,0.0,0.0,0.0,0.0,308.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,336.0,296.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,336.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,HOURS_PER_MONTH
+8,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,222.0,222.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,222.0,HOURS_PER_MONTH
+8,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+8,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,204.0,108.0,0.0,56.0,40.0,0.0,0.0,0.0,0.0,204.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,544.0,416.0,16.0,112.0,0.0,0.0,0.0,0.0,0.0,544.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,208.0,208.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,208.0,HOURS_PER_MONTH
+9,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,HOURS_PER_MONTH
+9,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Journeymen,53.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0,HOURS_PER_MONTH
+9,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,325.0,192.0,0.0,61.0,72.0,0.0,0.0,0.0,8.0,317.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,587.0,483.0,8.0,96.0,0.0,0.0,0.0,0.0,0.0,587.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,296.0,296.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,296.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+10,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+10,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,260.0,178.0,0.0,58.0,24.0,0.0,0.0,0.0,0.0,260.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,808.0,449.0,112.0,135.0,112.0,0.0,0.0,0.0,0.0,808.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,14.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,14.0,HOURS_PER_MONTH
+11,2019,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,John w. egan company inc.,PAINTER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2019,CHE1604 DC1 CM Construction Management Services Chelsea Soldiers' Home Comunity Living Center,CHE1604 DC1 CM,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Journeymen,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,HOURS_PER_MONTH
+11,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"King painting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,304.0,304.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,304.0,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Pilgrim interiors, inc.",PAINTER,Journeymen,41.57,41.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.57,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
+11,2019,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Journeymen,73.0,73.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73.0,HOURS_PER_MONTH
+11,2019,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,"H carr & sons, inc",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,772.0,408.0,0.0,348.0,16.0,0.0,0.0,0.0,8.0,764.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,250.0,214.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,250.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,1374.0,803.0,180.0,203.0,188.0,0.0,0.0,0.0,0.0,1374.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,PAINTER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+12,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,PAINTER,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+12,2019,DCP1907 OM1 C Metro Region Job Order Contracting General Contractor Services,DCP1907 OM1 C,N.e.l. corporation,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,176.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,176.0,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Pilgrim interiors, inc.",PAINTER,Journeymen,30.5,30.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.5,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,"Pilgrim interiors, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+12,2019,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,L&l contracting,PAINTER,Journeymen,10.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,10.0,HOURS_PER_MONTH
+12,2019,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,L&l contracting,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,1244.5,582.0,0.0,662.5,0.0,0.0,0.0,0.0,0.0,1244.5,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,360.0,320.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,360.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,662.0,352.0,162.0,130.0,18.0,0.0,0.0,0.0,0.0,662.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+1,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+1,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,1142.5,496.0,0.0,646.5,0.0,0.0,0.0,0.0,0.0,1142.5,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,243.0,243.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,243.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,117.0,117.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,117.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,280.0,16.0,0.0,264.0,0.0,0.0,0.0,0.0,56.0,224.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,96.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+2,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+2,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Apprentice,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,1190.5,407.0,0.0,685.5,98.0,0.0,0.0,0.0,0.0,1190.5,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,168.0,168.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,168.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Journeymen,58.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,BSB1403 HC1 C State House Data Center Relocation,BSB1403 HC1 C,"U.s. drywall, inc.",PAINTER,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+3,2020,BSB1403 HC1 C State House Data Center Relocation,BSB1403 HC1 C,"U.s. drywall, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,136.0,16.0,0.0,120.0,0.0,0.0,0.0,0.0,16.0,120.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,491.0,315.0,0.0,176.0,0.0,0.0,0.0,0.0,0.0,491.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,167.0,167.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,167.0,HOURS_PER_MONTH
+4,2020,BSB1403 HC1 C State House Data Center Relocation,BSB1403 HC1 C,"U.s. drywall, inc.",PAINTER,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+4,2020,BSB1403 HC1 C State House Data Center Relocation,BSB1403 HC1 C,"U.s. drywall, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,88.0,0.0,0.0,88.0,0.0,0.0,0.0,0.0,0.0,88.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+4,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+4,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
+4,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,21.0,5.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,21.0,HOURS_PER_MONTH
+5,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+5,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,192.0,168.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,192.0,HOURS_PER_MONTH
+5,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Journeymen,56.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+5,2020,QCC1701 HC1 C Community College Science Lab Renovations,QCC1701 HC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+5,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,48.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+6,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+6,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,233.0,202.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,233.0,HOURS_PER_MONTH
+6,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Journeymen,64.0,0.0,0.0,64.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+7,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Bello painting company, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+7,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,389.0,202.0,0.0,187.0,0.0,0.0,0.0,0.0,0.0,389.0,HOURS_PER_MONTH
+7,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,DCP1909 OM1 C Job Order Contracting for General Contractor Services,DCP1909 OM1 C,N.e.l. corporation,PAINTER,Journeymen,8.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+8,2020,DCP1909 OM1 C Job Order Contracting for General Contractor Services,DCP1909 OM1 C,N.e.l. corporation,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,1148.5,544.0,0.0,604.5,0.0,0.0,0.0,0.0,0.0,1148.5,HOURS_PER_MONTH
+8,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,Causeway contracting,PAINTER,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+9,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,Causeway contracting,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Journeymen,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+9,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,1164.0,582.0,0.0,582.0,0.0,0.0,0.0,0.0,0.0,1164.0,HOURS_PER_MONTH
+9,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,Causeway contracting,PAINTER,Journeymen,25.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,HOURS_PER_MONTH
+10,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,Causeway contracting,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+10,2020,DMH1301 DC1 C Solomon Carter Fuller Center Envelope Repair/Window Replacement,DMH1301 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+10,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DPH2001 HC1 C Mass. Public State Laboratory - Laboratory Relocation Project,DPH2001 HC1 C,Payne contracting company-rochelle payne,PAINTER,Journeymen,184.0,0.0,120.0,64.0,0.0,0.0,0.0,0.0,40.0,144.0,HOURS_PER_MONTH
+10,2020,DPH2001 HC1 C Mass. Public State Laboratory - Laboratory Relocation Project,DPH2001 HC1 C,Payne contracting company-rochelle payne,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Journeymen,36.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,HOURS_PER_MONTH
+10,2020,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Journeymen,239.0,44.0,0.0,91.0,104.0,0.0,0.0,0.0,0.0,239.0,HOURS_PER_MONTH
+10,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,495.5,232.5,0.0,263.0,0.0,0.0,0.0,0.0,0.0,495.5,HOURS_PER_MONTH
+10,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Journeymen,104.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+11,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DPH2001 HC1 C Mass. Public State Laboratory - Laboratory Relocation Project,DPH2001 HC1 C,Payne contracting company-rochelle payne,PAINTER,Journeymen,128.0,0.0,48.0,80.0,0.0,0.0,0.0,0.0,16.0,112.0,HOURS_PER_MONTH
+11,2020,DPH2001 HC1 C Mass. Public State Laboratory - Laboratory Relocation Project,DPH2001 HC1 C,Payne contracting company-rochelle payne,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Journeymen,344.0,0.0,8.0,173.0,163.0,0.0,0.0,0.0,0.0,344.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Journeymen,104.0,0.0,0.0,104.0,0.0,0.0,0.0,0.0,0.0,104.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Journeymen,24.0,8.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Journeymen,86.0,38.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,86.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Journeymen,267.0,98.0,0.0,169.0,0.0,0.0,0.0,0.0,0.0,267.0,HOURS_PER_MONTH
+11,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,"Dandis contracting, inc.",PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,Causeway contracting,PAINTER,Journeymen,46.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,HOURS_PER_MONTH
+12,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,Causeway contracting,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DPH2001 HC1 C Mass. Public State Laboratory - Laboratory Relocation Project,DPH2001 HC1 C,Payne contracting company-rochelle payne,PAINTER,Journeymen,56.0,0.0,16.0,40.0,0.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+12,2020,DPH2001 HC1 C Mass. Public State Laboratory - Laboratory Relocation Project,DPH2001 HC1 C,Payne contracting company-rochelle payne,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Souliere and zepka construction,PAINTER,Journeymen,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,HOURS_PER_MONTH
+12,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Souliere and zepka construction,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Journeymen,204.0,48.0,0.0,36.0,120.0,0.0,0.0,0.0,0.0,204.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,First choice finishes,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Journeymen,100.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,100.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Journeymen,120.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,John w. egan company inc.,PAINTER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH

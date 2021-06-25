@@ -1,0 +1,355 @@
+MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
+8,2017,AEP1407E UT1 C AEP Utility Contract-Cape Cod,AEP 1407E UT1,Rise engineering,INSUALTOR,Journeymen,16.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+8,2017,AEP1407E UT1 C AEP Utility Contract-Cape Cod,AEP 1407E UT1,Rise engineering,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,102.0,102.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,HOURS_PER_MONTH
+8,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,AEP1407E UT1 C AEP Utility Contract-Cape Cod,AEP 1407E UT1,Rise engineering,INSUALTOR,Journeymen,8.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+10,2017,AEP1407E UT1 C AEP Utility Contract-Cape Cod,AEP 1407E UT1,Rise engineering,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+10,2017,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Northern insulation service llc,INSUALTOR,Journeymen,12.5,12.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.5,HOURS_PER_MONTH
+10,2017,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Northern insulation service llc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,72.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+10,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,"Conservation specialists, inc.",INSUALTOR,Journeymen,23.5,23.5,0.0,0.0,0.0,0.0,0.0,0.0,23.5,0.0,HOURS_PER_MONTH
+10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,"Conservation specialists, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,176.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,176.0,HOURS_PER_MONTH
+11,2017,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+11,2017,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,91.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,91.0,HOURS_PER_MONTH
+1,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,135.0,55.0,0.0,0.0,0.0,0.0,0.0,80.0,0.0,135.0,HOURS_PER_MONTH
+1,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,245.5,237.5,0.0,8.0,0.0,0.0,0.0,0.0,0.0,245.5,HOURS_PER_MONTH
+2,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,190.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,190.0,HOURS_PER_MONTH
+2,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,87.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0,0.0,87.0,HOURS_PER_MONTH
+2,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+5,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,83.0,83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0,HOURS_PER_MONTH
+5,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,286.0,168.0,0.0,118.0,0.0,0.0,0.0,0.0,0.0,286.0,HOURS_PER_MONTH
+5,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Northern insulation service llc,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+5,2018,POL1702 FC1 C State Police New Braintree Boiler Modifications and Replacement,POL1702 FC1 C,Northern insulation service llc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,434.5,418.5,0.0,0.0,16.0,0.0,0.0,0.0,0.0,434.5,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,180.0,116.5,0.0,0.0,0.0,0.0,63.5,0.0,0.0,180.0,HOURS_PER_MONTH
+5,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,71.0,55.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,71.0,HOURS_PER_MONTH
+5,2018,TRC1214 HC1 C TRC Haverhill District Court Various Improvements/Renovations,TRC1214 HC1 C,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Journeymen,79.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Journeymen,48.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,HOURS_PER_MONTH
+6,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,"DPH1350E EC1 C DPH-Lab Institute, Jamaica Plain-Boiler-Energy Design-Build",DPH1350E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,27.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,16.0,HOURS_PER_MONTH
+6,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,130.5,122.5,0.0,8.0,0.0,0.0,0.0,0.0,8.0,122.5,HOURS_PER_MONTH
+6,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+6,2018,SDE1301E EC1 C SDE Essex Sheriffs Dept.Multisite Energy and Water Retrofit Construction Non-CEIP,SDE1301E EC1,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,616.0,456.0,0.0,80.0,56.0,0.0,0.0,24.0,120.0,496.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,15.0,7.5,0.0,0.0,0.0,0.0,7.5,0.0,0.0,15.0,HOURS_PER_MONTH
+6,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Journeymen,281.5,281.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,281.5,HOURS_PER_MONTH
+8,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,Axion specialty contracting,INSUALTOR,Journeymen,59.0,48.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,59.0,HOURS_PER_MONTH
+8,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,229.0,229.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,227.0,HOURS_PER_MONTH
+8,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,248.0,200.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,248.0,HOURS_PER_MONTH
+8,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,667.5,518.0,0.0,141.5,8.0,0.0,0.0,0.0,141.5,526.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,50.0,25.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,50.0,HOURS_PER_MONTH
+8,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Journeymen,145.0,145.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,145.0,HOURS_PER_MONTH
+10,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,Axion specialty contracting,INSUALTOR,Journeymen,67.0,64.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,67.0,HOURS_PER_MONTH
+10,2018,DMH0902 EC1 C Taunton State Hospital Energy Project,DMH0902 EC1,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,212.0,204.0,0.0,8.0,0.0,0.0,0.0,0.0,3.5,208.5,HOURS_PER_MONTH
+10,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,374.0,161.5,0.0,196.5,16.0,0.0,0.0,0.0,0.0,374.0,HOURS_PER_MONTH
+10,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,397.0,136.0,0.0,117.0,144.0,0.0,0.0,0.0,117.0,280.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,57.0,31.0,0.0,0.0,0.0,0.0,26.0,0.0,0.0,57.0,HOURS_PER_MONTH
+10,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Journeymen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,Kmk insulation inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,150.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0,HOURS_PER_MONTH
+11,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,100.0,52.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,100.0,HOURS_PER_MONTH
+11,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,420.5,357.0,0.0,47.5,16.0,0.0,0.0,0.0,47.5,373.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,35.0,21.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,35.0,HOURS_PER_MONTH
+11,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,28.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,HOURS_PER_MONTH
+12,2018,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,112.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
+12,2018,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,96.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,HOURS_PER_MONTH
+12,2018,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,383.0,359.0,0.0,8.0,16.0,0.0,0.0,0.0,8.0,375.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,24.0,18.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,24.0,HOURS_PER_MONTH
+12,2018,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Journeymen,101.0,7.5,0.0,93.5,0.0,0.0,0.0,0.0,0.0,101.0,HOURS_PER_MONTH
+1,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,111.0,111.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,111.0,HOURS_PER_MONTH
+1,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,66.0,58.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,HOURS_PER_MONTH
+1,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,388.0,380.0,0.0,8.0,0.0,0.0,0.0,0.0,8.0,380.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,160.0,108.0,0.0,0.0,0.0,0.0,52.0,0.0,0.0,160.0,HOURS_PER_MONTH
+1,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,HOURS_PER_MONTH
+2,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,67.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,HOURS_PER_MONTH
+2,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,242.0,59.0,80.0,103.0,0.0,0.0,0.0,0.0,0.0,242.0,HOURS_PER_MONTH
+2,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,419.0,419.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,419.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,61.0,34.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,61.0,HOURS_PER_MONTH
+2,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Journeymen,50.5,0.0,0.0,50.5,0.0,0.0,0.0,0.0,0.0,50.5,HOURS_PER_MONTH
+3,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,25.0,17.0,0.0,8.0,0.0,0.0,0.0,0.0,3.5,21.5,HOURS_PER_MONTH
+3,2019,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+3,2019,HCC0801 DC2 HCC-G Building Renovation Addition Holyoke,HCC0801 DC2,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,244.0,108.0,48.0,88.0,0.0,0.0,0.0,0.0,0.0,244.0,HOURS_PER_MONTH
+3,2019,QCC1601 HC1 C HVAC Upgrades to Surprenant Hall Quinsigamond Community College,QCC1601 HC1 C,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,541.0,525.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,541.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,38.0,25.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,38.0,HOURS_PER_MONTH
+3,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Journeymen,8.25,0.0,0.0,8.25,0.0,0.0,0.0,0.0,0.0,8.25,HOURS_PER_MONTH
+4,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,470.0,430.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,470.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,HOURS_PER_MONTH
+4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+5,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,660.5,476.5,0.0,0.0,184.0,0.0,0.0,0.0,0.0,660.5,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,54.0,34.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,54.0,HOURS_PER_MONTH
+5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Journeymen,96.0,0.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,96.0,HOURS_PER_MONTH
+6,2019,AEP1802E UT1 C Utility Simple Fix,AEP1802E UT1 C,Rise engineering,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,606.5,383.5,0.0,0.0,223.0,0.0,0.0,0.0,0.0,606.5,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,28.0,21.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,28.0,HOURS_PER_MONTH
+6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+7,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"E. amanti & sons, inc",INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,240.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,240.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,7.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,7.0,HOURS_PER_MONTH
+7,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Journeymen,15.5,15.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.5,HOURS_PER_MONTH
+8,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"E. amanti & sons, inc",INSUALTOR,Journeymen,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,36.5,36.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.5,HOURS_PER_MONTH
+8,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Journeymen,84.0,84.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,84.0,HOURS_PER_MONTH
+9,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,HOURS_PER_MONTH
+9,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,120.0,112.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,10.0,5.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,10.0,HOURS_PER_MONTH
+9,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,94.5,94.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94.5,HOURS_PER_MONTH
+9,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,76.0,76.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,HOURS_PER_MONTH
+10,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+10,2019,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,112.0,96.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
+10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,26.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,HOURS_PER_MONTH
+10,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,182.5,182.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,182.5,HOURS_PER_MONTH
+11,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,24.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+11,2019,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,224.0,56.0,0.0,0.0,168.0,0.0,0.0,0.0,0.0,224.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,36.0,18.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,36.0,HOURS_PER_MONTH
+11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,"Spindle city insulation, inc.",INSUALTOR,Journeymen,36.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,HOURS_PER_MONTH
+11,2019,TRC1702 HC1 C Suffolk County Courthouse Elevator Modernization,TRC1702 HC1 C,"Spindle city insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,70.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,70.0,HOURS_PER_MONTH
+12,2019,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,120.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,HOURS_PER_MONTH
+12,2019,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,HOURS_PER_MONTH
+12,2019,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,72.0,64.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,72.0,HOURS_PER_MONTH
+12,2019,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,56.0,0.0,40.0,0.0,16.0,0.0,0.0,0.0,0.0,56.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,20.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,20.0,HOURS_PER_MONTH
+12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,26.5,26.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.5,HOURS_PER_MONTH
+12,2019,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,HOURS_PER_MONTH
+1,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,147.0,0.0,0.0,147.0,0.0,0.0,0.0,0.0,0.0,147.0,HOURS_PER_MONTH
+1,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,30.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,HOURS_PER_MONTH
+1,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,"Conservation specialists, inc.",INSUALTOR,Journeymen,108.0,68.0,0.0,40.0,0.0,0.0,0.0,0.0,28.0,80.0,HOURS_PER_MONTH
+1,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,"Conservation specialists, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Journeymen,96.5,96.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.5,HOURS_PER_MONTH
+1,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,112.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
+1,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,24.0,8.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Journeymen,64.0,48.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,64.0,HOURS_PER_MONTH
+1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Interstate insulation, llc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+1,2020,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,191.5,183.5,0.0,8.0,0.0,0.0,0.0,0.0,0.0,191.5,HOURS_PER_MONTH
+1,2020,TRC1407 FC1 C Exterior Building Repairs and Access Modification East Brookfield District Court,TRC1407 FC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"E. amanti & sons, inc",INSUALTOR,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+2,2020,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,162.5,16.0,0.0,146.5,0.0,0.0,0.0,0.0,0.0,162.5,HOURS_PER_MONTH
+2,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,11.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,HOURS_PER_MONTH
+2,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,"Conservation specialists, inc.",INSUALTOR,Journeymen,70.0,35.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,70.0,HOURS_PER_MONTH
+2,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,"Conservation specialists, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Journeymen,91.5,91.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,91.5,HOURS_PER_MONTH
+2,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,118.0,118.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,118.0,HOURS_PER_MONTH
+2,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+2,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,"Elad insustrial insulation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"E. amanti & sons, inc",INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+3,2020,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,57.0,0.0,0.0,57.0,0.0,0.0,0.0,0.0,0.0,57.0,HOURS_PER_MONTH
+3,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,10.5,10.5,0.0,0.0,0.0,0.0,0.0,0.0,10.5,0.0,HOURS_PER_MONTH
+3,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,"Conservation specialists, inc.",INSUALTOR,Journeymen,22.75,22.75,0.0,0.0,0.0,0.0,0.0,0.0,22.75,0.0,HOURS_PER_MONTH
+3,2020,EPS1401E EC1 C MEMA Headquarters Energy and Water Upgrades,EPS1401E EC1 C,"Conservation specialists, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,13.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,8.0,HOURS_PER_MONTH
+3,2020,HCC1901 DB1 C HCC-Powerplant/Utility Tunnel-Main Switchgear and Power Center Replacement,HCC1901 DB1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Journeymen,61.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0,HOURS_PER_MONTH
+3,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+3,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,142.0,142.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,142.0,HOURS_PER_MONTH
+3,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,28.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,HOURS_PER_MONTH
+4,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Journeymen,95.25,95.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,95.25,HOURS_PER_MONTH
+4,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,"Amherst insulation & firestop service, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+4,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,64.0,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+4,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"E. amanti & sons, inc",INSUALTOR,Journeymen,64.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,HOURS_PER_MONTH
+5,2020,BSD1801 DC1 C Bristol County Jail & H.O.C. Roof repair/Replacement,BSD1801 DC1 C,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Journeymen,23.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,HOURS_PER_MONTH
+5,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+5,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,113.5,113.5,0.0,0.0,0.0,0.0,0.0,0.0,113.5,0.0,HOURS_PER_MONTH
+5,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,HOURS_PER_MONTH
+6,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,8.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
+6,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,HOURS_PER_MONTH
+6,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+6,2020,WSC1902 DB1 C WSC-Campus-wide-Redundant Steam and Condensate Loop,WSC1902 DB1 C,Insulation contractor of new england llc,INSUALTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+6,2020,WSC1902 DB1 C WSC-Campus-wide-Redundant Steam and Condensate Loop,WSC1902 DB1 C,Insulation contractor of new england llc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,12.0,8.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,12.0,HOURS_PER_MONTH
+7,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Journeymen,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,HOURS_PER_MONTH
+7,2020,DCR1110 DC1 CM North Point New Maintenance Facility,DCR1110 DC1 CM,"Thermo-dynamics international, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,28.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,HOURS_PER_MONTH
+7,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,HOURS_PER_MONTH
+7,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+7,2020,MWC1901 DB1 C MWC- Powerplant/Campus wide-Mechanical Infrastructure Upgrade,MWC1901 DB1 C,"Energy insulation conservation, inc.",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+7,2020,WSC1902 DB1 C WSC-Campus-wide-Redundant Steam and Condensate Loop,WSC1902 DB1 C,Insulation contractor of new england llc,INSUALTOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+7,2020,WSC1902 DB1 C WSC-Campus-wide-Redundant Steam and Condensate Loop,WSC1902 DB1 C,Insulation contractor of new england llc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,485.0,285.0,0.0,0.0,0.0,0.0,200.0,0.0,0.0,485.0,HOURS_PER_MONTH
+8,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,47.5,47.5,0.0,0.0,0.0,0.0,0.0,0.0,47.5,0.0,HOURS_PER_MONTH
+8,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+8,2020,WSC1902 DB1 C WSC-Campus-wide-Redundant Steam and Condensate Loop,WSC1902 DB1 C,Insulation contractor of new england llc,INSUALTOR,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+8,2020,WSC1902 DB1 C WSC-Campus-wide-Redundant Steam and Condensate Loop,WSC1902 DB1 C,Insulation contractor of new england llc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,198.0,160.0,0.0,0.0,0.0,0.0,38.0,0.0,0.0,198.0,HOURS_PER_MONTH
+9,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Journeymen,111.0,111.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,111.0,HOURS_PER_MONTH
+9,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Journeymen,112.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
+9,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Atlantic contracting & specialties,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,83.0,83.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0,0.0,HOURS_PER_MONTH
+9,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,HOURS_PER_MONTH
+9,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,16.0,HOURS_PER_MONTH
+9,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+9,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,116.5,116.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,116.5,HOURS_PER_MONTH
+9,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,157.0,136.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,157.0,HOURS_PER_MONTH
+10,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Journeymen,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,HOURS_PER_MONTH
+10,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DCP1905 DC1 CM McCormack Building Immediate Needs,DCP1905 DC1 CM,"E. amanti & sons, inc",INSUALTOR,Journeymen,32.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,HOURS_PER_MONTH
+10,2020,DCP1905 DC1 CM McCormack Building Immediate Needs,DCP1905 DC1 CM,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Journeymen,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,HOURS_PER_MONTH
+10,2020,DOC1507 DC1 C New Food Servicing Building - MCI Shirley,DOC1507 DC1 C,Araujo bro plumbing inc,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,HOURS_PER_MONTH
+10,2020,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,29.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,HOURS_PER_MONTH
+10,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,130.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,63.0,HOURS_PER_MONTH
+10,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,110.5,110.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,110.5,HOURS_PER_MONTH
+10,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+10,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,Axion specialty contracting,INSUALTOR,Journeymen,216.0,216.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,216.0,HOURS_PER_MONTH
+10,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,9.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,9.0,HOURS_PER_MONTH
+11,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Journeymen,16.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,HOURS_PER_MONTH
+11,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DCP1905 DC1 CM McCormack Building Immediate Needs,DCP1905 DC1 CM,"E. amanti & sons, inc",INSUALTOR,Journeymen,80.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,HOURS_PER_MONTH
+11,2020,DCP1905 DC1 CM McCormack Building Immediate Needs,DCP1905 DC1 CM,"E. amanti & sons, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,13.5,13.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.5,HOURS_PER_MONTH
+11,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,Manny's plumbing & heating inc.,INSUALTOR,Journeymen,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,HOURS_PER_MONTH
+11,2020,MCA1501E EC1- Campus Wide-Energy/Water Retrofit,MCA1501E EC1,Manny's plumbing & heating inc.,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,74.5,74.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.5,HOURS_PER_MONTH
+11,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+11,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,Axion specialty contracting,INSUALTOR,Journeymen,90.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,HOURS_PER_MONTH
+11,2020,TRC1203 FC1 C Brighton Municipal Court Building Envelope Improvements,TRC1203 FC1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Journeymen,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,HOURS_PER_MONTH
+12,2020,BRC1901 DB1 C Campus Wide Electrical Infrastructures Upgrade - Bristol Community College,BRC1901 DB1 C,Axion specialty contracting,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Journeymen,112.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
+12,2020,CHE2002 DC1 C Chelsea Soldiers' Home Quigley Building Emergency Renovation,CHE2002 DC1 C,"Urban insulation, inc",INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Journeymen,7.5,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,HOURS_PER_MONTH
+12,2020,DYS1404E ES1 C Western Youth Center Comprehensive Design Build Energy Project,DYS1404E ES1,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Journeymen,97.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0,HOURS_PER_MONTH
+12,2020,SDW1501 DC1 C New Medical & Intake Unit Worcester County Jail & HOC,SDW1501 DC1 C,Industrial mechanical insulation,INSUALTOR,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
