@@ -1,5 +1,3 @@
-MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
-5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",RAKER,Journeymen,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,HOURS_PER_MONTH
-5,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",RAKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",RAKER,Journeymen,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,HOURS_PER_MONTH
-6,2019,CME0902 DC1 C Chief Medical Examiner Office West Central Combined,CME0902 DC1 CM,"Ondrick materials & recycling, llc",RAKER,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+version https://git-lfs.github.com/spec/v1
+oid sha256:d454e85c36c8173a870c95276f20df94c2acf0dc1c16f08dda22a13ecac32297
+size 1014

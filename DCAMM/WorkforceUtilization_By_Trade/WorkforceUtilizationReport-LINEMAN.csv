@@ -1,25 +1,3 @@
-MONTH,YEAR,PROJECT,PROJECT_CODE,CONTRACTOR,CONSTRUCTION_TRADE,CRAFT_LEVEL,TOTAL_EMPLOYEE,CAUCASIAN,AFRICAN_AMERICAN,HISPANIC,ASIAN,NATIVE_AMERICAN,OTHER,NOT_SPECIFIED,TOTAL_FEMALE,TOTAL_MALE,HOURS_WORKED_PER_MONTH
-8,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Bg mechanical,LINEMAN,Journeymen,92.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,92.0,HOURS_PER_MONTH
-8,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Bg mechanical,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Bg mechanical,LINEMAN,Journeymen,254.0,241.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,254.0,HOURS_PER_MONTH
-10,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Bg mechanical,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-11,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Bg mechanical,LINEMAN,Journeymen,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,HOURS_PER_MONTH
-11,2017,SDF1401E EC1 C Sheriff's Department Franklin Energy/Water Design/Build Project,SDF1401E EC1,Bg mechanical,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,105.0,105.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,105.0,HOURS_PER_MONTH
-4,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,143.0,143.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,143.0,HOURS_PER_MONTH
-5,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,112.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0,HOURS_PER_MONTH
-6,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,53.5,53.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.5,HOURS_PER_MONTH
-8,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,30.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,HOURS_PER_MONTH
-10,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-11,2019,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,LINEMAN,Journeymen,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,HOURS_PER_MONTH
-11,2019,DPH1306 EC1 C Energy Water Upgrades Pappas Rehabilitation Hospital,DPH1306 EC1 C,J. derenzo companies,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,64.5,64.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.5,HOURS_PER_MONTH
-11,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,60.75,60.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.75,HOURS_PER_MONTH
-12,2019,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
-1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Journeymen,8.75,8.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.75,HOURS_PER_MONTH
-1,2020,TRC0105 DC1 C Lowell Trial Court,TRC0105 DC1,Ver-tex construction specialties,LINEMAN,Apprentice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HOURS_PER_MONTH
+version https://git-lfs.github.com/spec/v1
+oid sha256:78dfaf41528878fd691a12fd558466cf7cef14af553a730ec06270e54e89140e
+size 4353
